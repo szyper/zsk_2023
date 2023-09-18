@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\bin\Debug\net7.0\project_3_2.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\bin\Debug\net7.0\project_3_2.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\bin\Debug\net7.0\project_3_2.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\bin\Debug\net7.0\project_3_2.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\bin\Debug\net7.0\project_3_2.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\refint\project_3_2.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\project_3_2.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\project_3_2\obj\Debug\net7.0\ref\project_3_2.dll
