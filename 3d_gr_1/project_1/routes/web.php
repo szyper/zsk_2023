@@ -29,3 +29,19 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+Route::get('city_old', function(){
+    return "text";
+});
+
+Route::get('city', function(){
+    return view('city');
+});
+
+Route::get('info', function(){
+    return view('city', ['firstName' => 'Janusz', 'lastName' => 'Nowak', 'city' => 'Poznan']);
+});
+
+Route::get('info_age/{age}', function($age){
+    return view('city', ['firstName' => 'Janusz', 'lastName' => 'Nowak', 'city' => 'Poznan', 'age' => $age]);
+});

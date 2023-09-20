@@ -29,3 +29,31 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
+
+Route::get('city_old', function(){
+    return 'Miasto';
+});
+
+Route::get('city', function(){
+    return view('city');
+});
+
+Route::get('info', function(){
+    return view('info', ['firstName' => 'Janusz', 'lastName' => 'Nowak', 'city' => 'Poznan']);
+});
+
+Route::get('info_age/{age}', function($age){
+    return view('info', ['firstName' => 'Janusz', 'lastName' => 'Nowak', 'city' => 'Poznan', 'age' => $age]);
+});
+
+Route::get('pages/{page}', function($page){
+    $pages = [
+        'about' => 'Informacje o stronie',
+        'contact' => 'contact@gmail.com',
+        'home' => 'Strona domowa'
+    ];
+    return $pages[$page];
+});
+
+Route::redirect('miasto', 'city');
+Route::redirect('/', 'city');
