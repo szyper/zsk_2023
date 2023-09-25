@@ -27,6 +27,13 @@ namespace project_3_2
        * long -9 223 372 036 854 775 808 - 9 223 372 036 854 775 807 (64 bity => 8 bajtów)
        * ulong 0 - 18 446 744 073 709 551 616 (64 bity => 8 bajtów)
        * 
+       * float -3,4 x 10^38 do 3,4 x 10^38 (32 bity)
+       * double (64 bity)
+       * decimal (128 bitów)
+       * 
+       * char U+0000 do U+ffff (16 bitowy znak z tablicy Unicode)
+       * string 
+       * 
        */
 
       byte b = 10;
@@ -59,7 +66,11 @@ namespace project_3_2
 
       Console.WriteLine("Rozmiar typu bool: " + sizeof(bool)); //1 bajt
 
-      //dokończyć
+      float f1 = 10.5F;
+      Console.WriteLine(f1); //10,5
+
+      float f2 = 10F;
+      Console.WriteLine(f2); //10
 
       Console.ReadKey();
     }
