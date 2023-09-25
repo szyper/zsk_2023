@@ -30,3 +30,12 @@ Route::middleware('auth')->group(function () {
 
 require __DIR__.'/auth.php';
 
+Route::get('zsk', function(){
+  return view('zsk', [
+    'firstName' => 'Janusz',
+    'lastName' => 'Nowak',
+    'city' => 'Gniezno'
+  ]);
+});
+
+Route::view('test', 'welcome');
