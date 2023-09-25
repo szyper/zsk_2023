@@ -1,0 +1,500 @@
+   39  git commit -m "register"
+   40  git push --set-upstream origin register
+   41  git stats
+   42  git stat
+   43  git stats
+   44  ls
+   45  ls a
+   46  ls -a
+   47  ls -d
+   48  ls -ad
+   49  ls -a
+   50  ls -ad
+   51  ls -a
+   52  ls -ad
+   53  ls -d
+   54  git clean -ixf
+   55  git cherry
+   56  git cherry -v
+   57  git checkout -b "asp calculator"
+   58  git checkout -b "asp_calculator"
+   59  git add *
+   60  git commit -m "calculator"
+   61  git push
+   62  git push --set-upstream origin asp_calculator
+   63  git branch
+   64  git add *
+   65  git commit -m "tests"
+   66  git push
+   67  git config --list
+   68  git clone https://github.com/szyper/t19.git
+   69  ls
+   70  cd t19
+   71  ls
+   72  git status
+   73  git add *
+   74  git status
+   75  git commit -m "add files"
+   76  git push origin main
+   77  git status
+   78  cls
+   79  git clone https://github.com/szyper/zsk_2023.git
+   80  ls
+   81  cd ..
+   82  ls
+   83  clar
+   84  clear
+   85  clear
+   86  ls
+   87  git status
+   88  php -v
+   89  composer global require laravel/installer
+   90  ls
+   91  cd 3c_gr_1/
+   92  laravel new project_1
+   93  ls
+   94  php artisan serv
+   95  ls
+   96  cd project_1/
+   97  ls
+   98  php artisan serv
+   99  ls
+  100  cd ..
+  101  ls
+  102  cd ..
+  103  ls
+  104  clear
+  105  cls
+  106  alias c=clear
+  107  c
+  108  git status
+  109  git add *
+  110  git status
+  111  clear
+  112  git commit -m "add new project with Laravel"
+  113  git status
+  114  git push
+  115  git config --list
+  116  git config global --list
+  117  git config --global --list
+  118  git config --global user
+  119  git config --global --list
+  120  git config --list --show-origin
+  121  git config --global core.editor
+  122  git status
+  123  git add *
+  124  git status
+  125  git commit -m "add new project with C#"
+  126  git status
+  127  git push
+  128  history
+  129  clear
+  130  c
+  131  clear
+  132  git status
+  133  cd ..
+  134  git status
+  135  git add *
+  136  git status
+  137  history
+  138  git commit -m "add new project with Laravel"
+  139  git status
+  140  git push
+  141  git config --global --list
+  142  git config --global --edit
+  143  history
+  144  git clone https://github.com/szyper/zsk_2023.git
+  145  ls
+  146  cd zsk_2023
+  147  ls
+  148  git status
+  149  history
+  150  clear
+  151  alias c=clear
+  152  c
+  153  php -v
+  154  composer global require laravel/installer
+  155  ls
+  156  mkdir 3c_gr_2
+  157  cd 3c_gr_2/
+  158  laravel new project_1
+  159  ls
+  160  cd project_1/
+  161  ls
+  162  php artisan serv
+  163  history
+  164  cd ..
+  165  ls
+  166  cd t19
+  167  ls
+  168  cd po
+  169  cd gr_1/
+  170  ls
+  171  cls
+  172  clear
+  173  ls
+  174  ls
+  175  echo "nowe repo" > test.txt 
+  176  cat test.txt 
+  177  git status
+  178  git add  *
+  179  git status
+  180  git push
+  181  git commit -m "add new file test.txt"
+  182  git status
+  183  git push
+  184  clear
+  185  history
+  186  clear
+  187  cd ..
+  188  cd ..
+  189  clear
+  190  ls
+  191  clear
+  192  cd ..
+  193  clear
+  194  ls
+  195  cd t19
+  196  ls
+  197  git status
+  198  git add *
+  199  git status
+  200  git commit -m "new projects"
+  201  git status
+  202  git push
+  203  clear
+  204  touch test.txt
+  205  ls
+  206  echo "nowy plik na serwerze" > test.txt 
+  207  cat test.txt
+  208  tree
+  209  dir
+  210  clear
+  211  ls
+  212  cd po
+  213  ls
+  214  cd ..
+  215  ls
+  216  rm test.txt 
+  217  ls
+  218  cd po
+  219  ls
+  220  mkdir gr_2
+  221  ls
+  222  cd gr_2
+  223  echo "nowy plik" > test.txt
+  224  ls
+  225  cat test.txt 
+  226  clea
+  227  clear
+  228  git status
+  229  git add *
+  230  git status
+  231  git commit -m "add new file"
+  232  git status
+  233  git push
+  234  git status
+  235  history
+  236  clear
+  237  git add *
+  238  git status
+  239  git commit -m "add new projects"
+  240  git status
+  241  git add *
+  242  git commit -m "add new projects"
+  243  git status
+  244  git push
+  245  git status
+  246  history
+  247  git status
+  248  git add *
+  249  git commit -m "add new projects"
+  250  git push
+  251  ping wp.pl
+  252  ping wp.pl
+  253  ping wp.pl
+  254  ping wp.pl
+  255  ping wp.pl
+  256  git push
+  257  git status
+  258  git add *
+  259  git status
+  260  git commit -m "add new project with c#"
+  261  git status
+  262  git push
+  263  git add *
+  264  git commit -m "C#"
+  265  git push
+  266  ls
+  267  ls
+  268  git clone https://github.com/szyper/test.git
+  269  ls
+  270  cd test
+  271  ls
+  272  ls
+  273  cd ..
+  274  ls
+  275  dir
+  276  tree
+  277  cd ..
+  278  cd ..
+  279  ls
+  280  cd zsk_2023/
+  281  ls
+  282  cd 3d_gr_1
+  283  ls
+  284  ls project_1/
+  285  cls
+  286  clear
+  287  ls
+  288  echo "Janusz Kowalski" > file.txt
+  289  ls
+  290  cat file.txt 
+  291  git status
+  292  git add *
+  293  git status
+  294  cd ..
+  295  git add *
+  296  git status
+  297  cls
+  298  clear
+  299  git commit -m "add new file
+  300  git status
+  301  git push
+  302  git status
+  303  git config --global --list
+  304  git config --global --edit
+  305  git clone https://github.com/szyper/zsk_2023.git
+  306  ls
+  307  php -v
+  308  php -v
+  309  ls
+  310  clear
+  311  cls
+  312  alias c=clear
+  313  c
+  314  laravel new project_1
+  315  ls
+  316  php artisan serv
+  317  cd project_1/
+  318  ls
+  319  php artisan serv
+  320  cd ../..
+  321  ls
+  322  git add *
+  323  git status
+  324  git commit -m "add new project"
+  325  git status
+  326  git push
+  327  ping wp.pl
+  328  ping wp.pl
+  329  ping wp.pl
+  330  git status
+  331  git add *
+  332  git status
+  333  git commit -m "new project"
+  334  git status
+  335  git push
+  336  git config --global --status
+  337  git config --global --list
+  338  git config --global --edit
+  339  git add *
+  340  git commit -m "DOM"
+  341  git push
+  342  git push
+  343  git push
+  344  git status
+  345  git pull
+  346  git status
+  347  git merge --abort
+  348  git status
+  349  git pull
+  350  git status
+  351  git add *
+  352  git status
+  353  git commit -m "add new file"
+  354  git push
+  355  git status
+  356  ls
+  357  git status
+  358  git add *
+  359  git status
+  360  git commit -m "routing"
+  361  git push
+  362  ls
+  363  git status
+  364  git add *
+  365  git commit -m "type"
+  366  git push
+  367  clear
+  368  cls
+  369  clear
+  370  alias c=clear
+  371  clear
+  372  sad
+  373  c
+  374  ls
+  375  ls -a
+  376  ls -l
+  377  c
+  378  alias
+  379  git add *
+  380  git -c "type"
+  381  git commit -c "type"
+  382  git status
+  383  git commit -m "type"
+  384  git push
+  385  ls
+  386  git clone https://github.com/szyper/wsb_2023.git
+  387  ls
+  388  cd wsb_2023/
+  389  cls
+  390  clear
+  391  php -v
+  392  composer -V
+  393  composer
+  394  alias c=clear
+  395  c
+  396  composer global require laravel/installer
+  397  laravel new project_wyklad_1
+  398  ls
+  399  cd project_wyklad_1/
+  400  ls
+  401  php artisan serv
+  402  ls
+  403  git status
+  404  git add *
+  405  git status
+  406  git commit -m "new laravel project"
+  407  git status
+  408  git push
+  409  git status
+  410  laravel new nst_k_51_lab
+  411  cls
+  412  clear
+  413  composer -V
+  414  ls
+  415  cd nst_k_51_lab/
+  416  ls
+  417  php artisan serv
+  418  git add *
+  419  git status
+  420  git add *
+  421  git commit -m "laravel"
+  422  git push
+  423  git status
+  424  git status
+  425  git add *
+  426  git commit -m "laravel 1"
+  427  git push
+  428  git status
+  429  git add *
+  430  php -v
+  431  clear
+  432  php -v
+  433  composer -V
+  434  cd ..
+  435  laravel new nst_k_53_lab
+  436  ls
+  437  cd nst_k_53_lab/
+  438  ls
+  439  cd ..
+  440  ls
+  441  cd nst_k_53_lab/
+  442  git add *
+  443  git commit -m "laravel 1"
+  444  git push
+  445  cd ..
+  446  cd nst_k_57_lab/
+  447  git add *
+  448  git commit -m "laravel 1"
+  449  git push
+  450  cls
+  451  clear
+  452  git add *
+  453  git commit -m "laravel 1v1"
+  454  git push
+  455  cd ../..
+  456  cd ..
+  457  ls
+  458  cd zsk
+  459  ls
+  460  cd zsk_2023/
+  461  git add *
+  462  git commit -m "typy danych"
+  463  git push
+  464  git add *
+  465  git commit -m "typy danych"
+  466  git push
+  467  git add *
+  468  git commit -m "typy danych"
+  469  git push
+  470  clear
+  471  git config --global --list
+  472  clear
+  473  git config --global --edit
+  474  ls
+  475  cd 3d_gr_1
+  476  ls
+  477  php artisan serv
+  478  cd project_1/
+  479  php artisan serv
+  480  ls
+  481  ls
+  482  mkdir git_lab
+  483  ls
+  484  rm git_lab
+  485  del git_lab
+  486  clear
+  487  ls
+  488  lsrm -r git_lab/
+  489  rm -r git_lab/
+  490  ls
+  491  cd ..
+  492  ls
+  493  git add *
+  494  git commit -m "po"
+  495  git push
+  496  git status
+  497  cd 3d_gr1
+  498  cd 3d_gr_1
+  499  ls
+  500  clear
+  501  git clone https://github.com/szyper/zsk_2023.gitls
+  502  ls
+  503  cd zsk_2023/
+  504  ls
+  505  cd 3d_gr_1
+  506  ls
+  507  mkdir git_lab
+  508  ls
+  509  git status
+  510  cd git_lab/
+  511  touch file_empty
+  512  ls
+  513  cat file_empty 
+  514  echo "nadpisanie" > file_empty 
+  515  cat file_empty 
+  516  echo "dopisanie" >> file_empty 
+  517  cat file_empty 
+  518  vim file_empty 
+  519  vim file_empty 
+  520  cat file_empty 
+  521  cls
+  522  clear
+  523  alias c=clear
+  524  c
+  525  ls
+  526  ls -l
+  527  ls -l > file_empty 
+  528  vim file_empty 
+  529  cd ..
+  530  ls
+  531  git status
+  532  git add *
+  533  git status
+  534  git commit -m "new dir"
+  535  git status
+  536  git push origin main
+  537  cd git_lab/
+  538  history > git_history
