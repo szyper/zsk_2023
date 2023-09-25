@@ -69,7 +69,7 @@ namespace project_3_4
       //sprawdzenie rozmiaru w pamięci
       Console.WriteLine("Typ int zajmuje w pamięci: " + sizeof(int)); //4 czyli 4 bajty
       Console.WriteLine("Typ float zajmuje w pamięci: " + sizeof(float)); //4 bajty
-      //Console.WriteLine("Typ string zajmuje w pamięci: " + sizeof(string)); //4 bajty
+      //Console.WriteLine("Typ string zajmuje w pamięci: " + sizeof(string)); //?
       Console.WriteLine("Typ char zajmuje w pamięci: " + sizeof(char)); //2 bajty
 
       Console.ReadKey();
