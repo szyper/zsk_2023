@@ -1,0 +1,33 @@
+  502  cd /
+  503  cd C:\xampp\htdocs\git\zsk\zsk_2023\3c_gr_2\project_1
+  504  cd C:/xampp/htdocs/git/zsk/zsk_2023/3c_gr_2/project_1
+  505  ls
+  506  cd ..
+  507  mkdir git_lab
+  508  clear
+  509  alias c=clear
+  510  ls
+  511  cd git_lab/
+  512  ls
+  513  c
+  514  echo "Janusz Kowalski" > file
+  515  ls
+  516  cat file
+  517  echo "nowa linia" >> file
+  518  cat file
+  519  vim file
+  520  cat file
+  521  vim file
+  522  cat file
+  523  ls -l
+  524  ls -l > file
+  525  vim file
+  526  git config --global list
+  527  git config --global --list
+  528  git config --global --edit
+  529  history
+  530  history | tail -2
+  531  history | tail -25
+  532  history | tail -28
+  533  history | tail -33
+  534  history | tail -33 > historia
