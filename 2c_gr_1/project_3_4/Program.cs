@@ -53,6 +53,7 @@ namespace project_3_4
       System.Int32 i3 = 10;
 
       long l = 10L;
+      ulong ul = 10UL;
 
       bool b1 = true;
       Console.WriteLine(b1); //True
@@ -71,6 +72,10 @@ namespace project_3_4
       Console.WriteLine("Typ float zajmuje w pamięci: " + sizeof(float)); //4 bajty
       //Console.WriteLine("Typ string zajmuje w pamięci: " + sizeof(string)); //?
       Console.WriteLine("Typ char zajmuje w pamięci: " + sizeof(char)); //2 bajty
+
+      Console.WriteLine("Typ float zajmuje w pamięci: " + sizeof(float)); //4 bajty => 32 bity
+      Console.WriteLine("Typ double zajmuje w pamięci: " + sizeof(double)); //8 bajtów => 64 bity
+      Console.WriteLine("Typ decimal zajmuje w pamięci: " + sizeof(decimal)); //16 bajtów => 128bitów 
 
       Console.ReadKey();
     }
