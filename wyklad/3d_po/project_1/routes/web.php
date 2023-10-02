@@ -39,3 +39,42 @@ Route::get('zsk', function(){
 });
 
 Route::view('test', 'welcome');
+
+/*
+Route::get('drives/{drive}', function(string $drive){
+  $drives = [
+    'fdd' => 'dyskietka',
+    'hdd' => 'dysk HDD',
+    'ssd' => 'dysk SSD'
+  ];
+  return $drives[$drive]??'Błędne dane podane przez użytkownika';
+});
+*/
+
+Route::get('drives/{drive}', function(string $drive){
+  $drives = match($drive){
+    'fdd' => 'dyskietka',
+    'hdd' => 'dysk HDD',
+    'ssd' => 'dysk SSD',
+    default => 'Błędne dane podane przez użytkownika'
+  };
+  return $drives;
+});
+
+Route::get('address', function(){
+  echo <<< ADDRESS
+    Miasto:
+ADDRESS;
+});
+
+Route::get('address1/{city}', function(string $city){
+  echo <<< ADDRESS
+    Miasto: $city
+ADDRESS;
+});
+
+Route::get('address2/{city?}', function(string $city = null){
+  echo <<< ADDRESS
+    Miasto: $city
+ADDRESS;
+});
