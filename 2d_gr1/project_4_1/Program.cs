@@ -1,4 +1,6 @@
-﻿namespace project_4_1
+﻿using System.Formats.Asn1;
+
+namespace project_4_1
 {
   internal class Program
   {
@@ -43,19 +45,42 @@
 
       //#########################################################
 
-      float? a;
+      float? a1;
       Console.Write("Podaj bok a:");
-      a = float.Parse(Console.ReadLine());
+      a1 = float.Parse(Console.ReadLine());
 
-      while (a <= 0)
+      while (a1 <= 0)
       {
         Console.Write("Podaj bok a:");
-        a = float.Parse(Console.ReadLine());
+        a1 = float.Parse(Console.ReadLine());
       }
 
-      Console.WriteLine($"Bok a wynosi: {a}");
+      Console.WriteLine($"Bok a wynosi: {a1}, pole: {a1*a1}cm^2");
 
-      //dokończyć zadanie
+      Console.Clear();
+
+      //pole trójkąta (wzór Herona)
+      double a, b, c;
+
+      Console.WriteLine("Podaj długośc boku a:");
+      a = Convert.ToDouble(Console.ReadLine());
+
+      Console.WriteLine("Podaj długośc boku b:");
+      b = Convert.ToDouble(Console.ReadLine());
+
+      Console.WriteLine("Podaj długośc boku c:");
+      c = Convert.ToDouble(Console.ReadLine());
+
+      if (a + b > c && a + c > b && b + c > a)
+      {
+        double p = (a + b + c) / 2;
+        double area = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+        Console.WriteLine("Pole trójkąta wynosi: {0:F2}cm^2", area);
+      }
+      else
+      {
+        Console.WriteLine("Nie można utworzyć trójkąta o podanych długościach boków");
+      }
 
     }
   }
