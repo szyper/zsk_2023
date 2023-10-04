@@ -56,11 +56,18 @@ namespace project_4_1
 
       //#################################################################
 
-      Console.Write("Podaj długość boku:");
-      float a = float.Parse(Console.ReadLine());
-      Console.WriteLine(a);
+      float a;
+      do
+      {
+        Console.Write("Podaj długość boku:");
+        a = float.Parse(Console.ReadLine());
+      } while (a <= 0);
+      Console.WriteLine($"Bok kwadratu wynosi: {a}, pole: {a*a}cm^2");
 
-
+      //#################################################################
+      
+      Console.WriteLine();
+      Console.WriteLine(Math.Sqrt(16));
 
       Console.ReadKey();
     }
