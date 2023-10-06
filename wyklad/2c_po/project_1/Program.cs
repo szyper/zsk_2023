@@ -66,7 +66,28 @@
       double area = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
       Console.WriteLine($"Pole trójkąta wynosi: {area:F2}cm^2");
 
-      //try catch
+      //pole trójkąta wzór Herona v.2
+
+      Console.Clear();
+
+      double number1, number2, number3;
+      Console.Write("Podaj trzy liczby odzielone spacjami:");
+      string input = Console.ReadLine();
+      string[] numbers = input.Split(' ');
+
+      //Console.WriteLine(numbers[0]);
+      //number1 = Convert.ToDouble(numbers[0]);
+      number1 = double.Parse(numbers[0]);
+      number2 = double.Parse(numbers[1]);
+      number3 = double.Parse(numbers[2]);
+
+      try
+      {
+
+      }catch(Exception ex)
+      {
+
+      }
 
       Console.ReadKey();
     }
