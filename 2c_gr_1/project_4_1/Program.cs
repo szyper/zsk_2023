@@ -55,17 +55,43 @@
       //###########################################################
 
       Console.Write("Podaj długość boku kwadratu:");
-      float a = float.Parse(Console.ReadLine());
-      while (a <= 0)
+      float a1 = float.Parse(Console.ReadLine());
+      while (a1 <= 0)
       {
         Console.Write("Podaj długość boku kwadratu:");
-        a = float.Parse(Console.ReadLine());
+        a1 = float.Parse(Console.ReadLine());
 
       }
 
-      Console.WriteLine($"Bok kwadratu wynosi: {a}, pole: {a*a}cm^2");
+      Console.WriteLine($"Bok kwadratu wynosi: {a1}, pole: {a1*a1}cm^2");
+
+      //###########################################################
+      //pole trójkąta wzorem 
+      /*Herona wzór, mat. wzór na obliczanie pola trójkąta S, gdy dane są jego boki a, b, c: , gdzie p = (a + b + c)/2 — połowa obwodu trójkąta.
+       */
+
+      Console.Clear();
+      double a, b, c;
+        
+      do
+      {
+        Console.Write("Podaj a:");
+        a = double.Parse(Console.ReadLine());
+
+        Console.Write("Podaj b:");
+        b = double.Parse(Console.ReadLine());
+
+        Console.Write("Podaj c:");
+        c = double.Parse(Console.ReadLine());
+      } while (a + b <= c || a + c <= b || b + c <= a);
+
+      double p = (a + b + c) /2;
+      double area = Math.Sqrt(p * (p - a) * (p - b) * (p - c));
+      Console.WriteLine($"Pole trójkąta wynosi: {area:F2}cm^2");
 
 
-    }
-  }
+
+
+}
+}
 }
