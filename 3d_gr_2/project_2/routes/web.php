@@ -26,3 +26,8 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+//prefix, group
+Route::get('/user/contact/{userId}', function(int $userId){
+    return 'Kontakt do użytkownika '.$userId;
+});

@@ -78,3 +78,43 @@ Route::get('address2/{city?}', function(string $city = null){
     Miasto: $city
 ADDRESS;
 });
+
+
+Route::prefix('users')->group(function(){
+  Route::get('/list', function(){
+    return 'Strona z użytkownikami';
+  });
+
+  Route::get('/home', function(){
+    return 'Strona domowa użytkownika';
+  });
+});
+
+
+Route::prefix('admin')->group(function(){
+  Route::get('/list_users', function(){
+    return 'Lista użytkowników';
+  });
+
+  Route::get('/home', function(){
+    return 'Strona domowa admina';
+  });
+});
+
+Route::prefix('moderator')->group(function(){
+  Route::get('/list', function(){
+    return 'Strona z artykułami';
+  });
+
+  Route::get('/home', function(){
+    return 'Strona domowa moderatora';
+  });
+});
+
+
+
+Route::name('admin.')->group(function () {
+  Route::get('/users1', function () {
+    return 'strona administracyjna';
+  })->name('users');
+});
