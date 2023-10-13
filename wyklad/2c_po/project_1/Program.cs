@@ -47,6 +47,8 @@
 
       //#######################################################
 
+
+      /*
       double a, b, c;
 
       do
@@ -88,6 +90,20 @@
       {
 
       }
+      */
+
+
+      Console.WriteLine(Environment.OSVersion);
+
+
+      Console.WriteLine(Environment.Version);
+      Console.WriteLine(Environment.UserName);
+      Console.WriteLine(Environment.UserDomainName);
+      Console.WriteLine(Environment.MachineName);
+
+      Console.WriteLine(Environment.CurrentDirectory);
+
+
 
       Console.ReadKey();
     }
