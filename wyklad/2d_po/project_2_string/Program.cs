@@ -15,6 +15,7 @@
       */
 
 
+      /*
       double n1, n2, n3;
       string input;
       string[] numbers;
@@ -34,6 +35,35 @@
       double area = Math.Sqrt(p * (p - n1) * (p - n2) * (p - n3));
       Console.WriteLine($"Pole trójkąta wynosi: {area:F2}cm");
       //dokończyć 2 z indeksem górnym w Unicode
+      */
+
+      Console.WriteLine("Janusz".PadLeft(10, '*')); //****Janusz
+      Console.WriteLine("Janusz".PadLeft(7, '*')); //*Janusz
+      Console.WriteLine("Janusz".PadLeft(3, '*')); //Janusz
+
+      Console.WriteLine("plik.doc".StartsWith("Plik")); //False
+      Console.WriteLine("plik.doc".StartsWith("plik")); //True
+
+      Console.WriteLine("\nJanusz\bi Agatka");
+
+
+      //C:\Users\User\Pictures\Screenshots
+
+      Console.WriteLine(@"C:\Users\User\Pictures\Screenshots");
+      Console.WriteLine(@"Dane użytkownika:\nJanusz Nowak");
+
+      Console.WriteLine(@"Dane użytkownika:\nJanusz Nowak""");
+
+
+
+
+
+
+
+
+
+
+
     }
   }
 }

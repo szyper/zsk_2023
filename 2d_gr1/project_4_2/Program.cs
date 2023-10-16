@@ -26,7 +26,7 @@
       double area = Math.Sqrt(p * (p - n1) * (p - n2) * (p - n3));
       Console.OutputEncoding = System.Text.Encoding.Unicode;
       Console.WriteLine($"Pole trójkąta wynosi: {area:F2}cm\u00B2");
-
+      Console.ReadKey();
     }
   }
 }
