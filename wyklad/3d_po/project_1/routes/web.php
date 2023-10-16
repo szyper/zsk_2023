@@ -2,7 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\showTableController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -118,3 +118,7 @@ Route::name('admin.')->group(function () {
     return 'strona administracyjna';
   })->name('users');
 });
+
+Route::get('show', [\App\Http\Controllers\showController::class, 'show']);
+
+Route::get('site', [showTableController::class, 'showDashboard']);
