@@ -31,3 +31,15 @@ Route::middleware([
 Route::get('/user/contact/{userId}', function(int $userId){
     return 'Kontakt do użytkownika '.$userId;
 });
+
+Route::prefix('admin')->group(function(){
+  Route::get('/admin/users', function(){
+    return '<h3>Użytkownicy</h3>';
+  });
+
+  Route::get('/admin/home', function(){
+    return '<h3>Strona domowa</h3>';
+  });
+});
+
+Route::redirect('/admin', '/admin/home');
