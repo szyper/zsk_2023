@@ -9,6 +9,13 @@
 </head>
 <body>
   <h3>Użytkownicy</h3>
+{{--  {{ print_r($users) }}--}}
+Imię i nazwisko: {{ $firstName }} {{ $lastName }}<br>
+Miasto: {{ $city }}<br>
 
+Hobby: <ul>@foreach($hobby as $x)
+              <li>{{ $x }}</li>
+           @endforeach
+       </ul>
 </body>
 </html>

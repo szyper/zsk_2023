@@ -59,3 +59,8 @@ Route::redirect('/admin', '/admin/home');
 
 //Route::get('show', [\App\Http\Controllers\ShowController::class, 'show']);
 Route::get('show', [ShowController::class, 'show']);
+Route::get('showusers', [ShowController::class, 'showView']);
+Route::get('showarray', [ShowController::class, 'showArray']);
+
+Route::view('userform', 'forms.user_form');
+Route::get('UserFormController', [\App\Http\Controllers\UserFormController::class, 'showUser']);

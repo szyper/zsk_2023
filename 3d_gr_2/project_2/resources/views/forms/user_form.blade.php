@@ -5,11 +5,13 @@
   <meta name="viewport"
         content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Użytkownicy</title>
+  <title>Użytkownik</title>
 </head>
 <body>
-  <h3>Użytkownicy</h3>
-  {{ print_r($users) }}
-
+  <h3>Dane użytkwonika</h3>
+  <form action="UserFormController" method="get">
+    <input type="text" name="firstName" placeholder="Podaj imię"><br><br>
+    <input type="submit" value="Zatwierdź dane">
+  </form>
 </body>
 </html>
