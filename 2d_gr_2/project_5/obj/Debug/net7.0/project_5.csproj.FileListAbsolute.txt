@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\bin\Debug\net7.0\project_5.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\bin\Debug\net7.0\project_5.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\bin\Debug\net7.0\project_5.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\bin\Debug\net7.0\project_5.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\bin\Debug\net7.0\project_5.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\refint\project_5.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\project_5.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\project_5\obj\Debug\net7.0\ref\project_5.dll

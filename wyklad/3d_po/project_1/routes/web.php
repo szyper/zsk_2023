@@ -122,3 +122,7 @@ Route::name('admin.')->group(function () {
 Route::get('show', [\App\Http\Controllers\showController::class, 'show']);
 
 Route::get('site', [showTableController::class, 'showDashboard']);
+
+Route::get('showarray/{key?}/{firstName?}/{lastName?}', [\App\Http\Controllers\ShowArrayController::class, 'show']);
+
+Route::view('userform', 'forms.userform');
