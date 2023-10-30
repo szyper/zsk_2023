@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\bin\Debug\net7.0\project_6_try_catch.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\bin\Debug\net7.0\project_6_try_catch.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\bin\Debug\net7.0\project_6_try_catch.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\bin\Debug\net7.0\project_6_try_catch.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\bin\Debug\net7.0\project_6_try_catch.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\refint\project_6_try_catch.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\project_6_try_catch.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\project_6_try_catch\obj\Debug\net7.0\ref\project_6_try_catch.dll
