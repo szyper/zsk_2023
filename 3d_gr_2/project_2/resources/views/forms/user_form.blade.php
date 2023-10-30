@@ -10,7 +10,9 @@
 <body>
   <h3>Dane użytkwonika</h3>
   <form action="UserFormController" method="get">
-    <input type="text" name="firstName" placeholder="Podaj imię"><br><br>
+    <input type="text" name="firstName" placeholder="Podaj imię" autofocus><br><br>
+    <input type="text" name="lastName" placeholder="Podaj nazwisko"><br><br>
+    <input type="email" name="email" placeholder="Podaj email"><br><br>
     <input type="submit" value="Zatwierdź dane">
   </form>
 </body>
