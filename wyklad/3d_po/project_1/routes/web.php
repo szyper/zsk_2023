@@ -126,3 +126,4 @@ Route::get('site', [showTableController::class, 'showDashboard']);
 Route::get('showarray/{key?}/{firstName?}/{lastName?}', [\App\Http\Controllers\ShowArrayController::class, 'show']);
 
 Route::view('userform', 'forms.userform');
+Route::get('AddUserController', [\App\Http\Controllers\AddUserController::class, 'ShowUser']);
