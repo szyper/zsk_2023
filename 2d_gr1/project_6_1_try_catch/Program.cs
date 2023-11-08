@@ -40,15 +40,52 @@ namespace project_6_1_try_catch
       //sprawdzenie czy dane zostały dodane do tablicy
       //pętla foreach
 
-      Console.WriteLine();
+      /*Console.WriteLine();
       foreach (int i in array)
       {
         Console.Write($"{i} ");
       }
-      Console.WriteLine();
+      Console.WriteLine();*/
 
+      int index = 0;
+      string input = "";
 
+      do
+      {
+        Console.WriteLine("Wprowadź indeks tablicy lub q, aby zakończyć program");
+        input = Console.ReadLine();
 
+        if (input == "q")
+        {
+          break;
+        }
+
+        try
+        {
+          index = int.Parse(input);
+
+          if (index > array.Length - 1)
+          {
+            throw new OverflowException("Błąd: ");
+          }
+
+          Console.WriteLine($"Liczba pod indeksem {index} to {array[index]}");
+
+        }
+        catch (FormatException)
+        {
+          Console.WriteLine("Nieprawidłowe dane. Wprowadź poprawną liczbę całkowitą.");
+        }
+        catch (IndexOutOfRangeException)
+        {
+          Console.WriteLine($"Nieprawidłowe dane. Indeks musi być między 0 a {array.Length - 1}");
+        }
+        catch (OverflowException ex)
+        {
+          Console.WriteLine($"Nieprawidłowe dane. Indeks musi być między 0 a {array.Length - 1}. Error: {ex.Message}");
+        }
+      }
+      while (true);
     }
   }
 }

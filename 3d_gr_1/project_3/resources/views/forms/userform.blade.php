@@ -12,6 +12,7 @@
 <form action="UserFormController" method="get">
     <input type="text" name="firstName" placeholder="Podaj imię" autofocus><br><br>
     <input type="text" name="lastName" placeholder="Podaj nazwisko"><br><br>
+    <input type="email" name="mail" placeholder="Podaj pocztę elektroniczną"><br><br>
     <input type="submit" value="Zatwierdź dane">
 </form>
 </body>
