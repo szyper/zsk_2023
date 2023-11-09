@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\bin\Debug\net7.0\project_6_1_Try_Catch_tablice.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\bin\Debug\net7.0\project_6_1_Try_Catch_tablice.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\bin\Debug\net7.0\project_6_1_Try_Catch_tablice.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\bin\Debug\net7.0\project_6_1_Try_Catch_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\bin\Debug\net7.0\project_6_1_Try_Catch_tablice.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\refint\project_6_1_Try_Catch_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\project_6_1_Try_Catch_tablice.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\project_6_1_Try_Catch_tablice\obj\Debug\net7.0\ref\project_6_1_Try_Catch_tablice.dll

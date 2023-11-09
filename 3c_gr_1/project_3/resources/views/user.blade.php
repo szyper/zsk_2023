@@ -9,6 +9,7 @@
 </head>
 <body>
 <h3>Dane użytkownika</h3>
-Imię i nazwisko: {{ $firstName }} {{ $lastName }}
+Imię i nazwisko: {{ $firstName }} {{ $lastName }}<br>
+Email: {{ $mail }}
 </body>
 </html>
