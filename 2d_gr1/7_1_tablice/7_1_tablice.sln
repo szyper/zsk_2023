@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_1_tablice", "7_1_tablice.csproj", "{783D92A7-DC34-45F4-A1BB-C5262F93EB5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{783D92A7-DC34-45F4-A1BB-C5262F93EB5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{783D92A7-DC34-45F4-A1BB-C5262F93EB5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{783D92A7-DC34-45F4-A1BB-C5262F93EB5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{783D92A7-DC34-45F4-A1BB-C5262F93EB5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B98536F-0D30-43AB-8992-9E71AAFC0917}
+	EndGlobalSection
+EndGlobal
