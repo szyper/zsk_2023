@@ -44,7 +44,7 @@
       }
       catch (FormatException)
       {
-        Console.WriteLine("\nBłędny format danych, rozmiar musi być liczbą całkowitą");
+        Console.WriteLine("\nBłędny format danych, rozmiar musi być liczbą całkowitą dodatnią");
         return null;
       }
       int[] array = new int[size];
