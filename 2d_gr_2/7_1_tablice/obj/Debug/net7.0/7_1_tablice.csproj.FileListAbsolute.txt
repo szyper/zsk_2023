@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\bin\Debug\net7.0\7_1_tablice.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\bin\Debug\net7.0\7_1_tablice.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\bin\Debug\net7.0\7_1_tablice.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\bin\Debug\net7.0\7_1_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\bin\Debug\net7.0\7_1_tablice.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\refint\7_1_tablice.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\7_1_tablice.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\obj\Debug\net7.0\ref\7_1_tablice.dll

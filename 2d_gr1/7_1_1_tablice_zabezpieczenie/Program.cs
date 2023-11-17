@@ -30,7 +30,7 @@ namespace _7_1_tablice
       Console.WriteLine();
     }
 
-    //funkcja statyczna, któa pozwala wprowadzić rozmiar tablicy i nazwę
+    //funkcja statyczna, która pozwala wprowadzić rozmiar tablicy i nazwę
     public static int[] CreateArray(string name)
     {
       Console.Write("Podaj rozmiar tablicy {0}:", name);

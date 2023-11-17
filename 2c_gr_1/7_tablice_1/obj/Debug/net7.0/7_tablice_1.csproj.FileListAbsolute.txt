@@ -12,3 +12,4 @@ C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\7_tablice_1\obj\Debug\net7.0\refint\7_t
 C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\7_tablice_1\obj\Debug\net7.0\7_tablice_1.pdb
 C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\7_tablice_1\obj\Debug\net7.0\7_tablice_1.genruntimeconfig.cache
 C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\7_tablice_1\obj\Debug\net7.0\ref\7_tablice_1.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\7_tablice_1\obj\Debug\net7.0\7_tablice_1.sourcelink.json

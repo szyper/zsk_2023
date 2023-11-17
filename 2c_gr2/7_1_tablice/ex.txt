@@ -1,0 +1,3 @@
+funkcja statyczna, która pozwala wprowadziæ rozmiar tablicy i nazwê CreateArray()
+funkcja statyczna, która ustawia elementy tablicy SetArray()
+funkcja statyczna, która wyœwietla zawartoœæ tablicy DisplayArray()
