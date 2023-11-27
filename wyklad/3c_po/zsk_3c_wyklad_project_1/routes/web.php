@@ -26,3 +26,8 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::get('show-user-db', [\App\Http\Controllers\DbController::class, 'ShowTableUsers']);
+Route::view('add-user', 'forms.add_user');
+
+//dokończyć routing post dla formularza

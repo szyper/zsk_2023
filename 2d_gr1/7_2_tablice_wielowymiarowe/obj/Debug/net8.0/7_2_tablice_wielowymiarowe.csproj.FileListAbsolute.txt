@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\bin\Debug\net8.0\7_2_tablice_wielowymiarowe.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\bin\Debug\net8.0\7_2_tablice_wielowymiarowe.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\bin\Debug\net8.0\7_2_tablice_wielowymiarowe.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\bin\Debug\net8.0\7_2_tablice_wielowymiarowe.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\bin\Debug\net8.0\7_2_tablice_wielowymiarowe.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\refint\7_2_tablice_wielowymiarowe.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\7_2_tablice_wielowymiarowe.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\7_2_tablice_wielowymiarowe\obj\Debug\net8.0\ref\7_2_tablice_wielowymiarowe.dll

@@ -6,20 +6,19 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Hash;
 
-class DbController extends Controller
+class DbShowController extends Controller
 {
-    public function ShowTableUser(){
+    public function ShowDb(){
         //return DB::table('users')->get();
 //        return DB::table('users')
 //            ->select('name', 'email')
-//            ->where('name', '=', 'jan')
 //            ->get();
 
         return DB::table('users')
             ->insert([
-                'name' => 'krystyna',
-                'email' => 'krystyna@o2.pl12',
-                'password' => Hash::make('krystyna@o2.pl12')
+               'name' => 'anna',
+               'email' => 'anna@o2.pl1',
+               'password' => Hash::make('anna')
             ]);
     }
 }

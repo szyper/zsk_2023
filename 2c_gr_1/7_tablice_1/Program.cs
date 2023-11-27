@@ -28,6 +28,7 @@
     }
 
     //funkcja statyczna, która pozwala wprowadzić rozmiar tablicy i nazwę
+
     public static int[] CreateArray(string name)
     {
       Console.Write("Podaj rozmiar tablicy {0}: ", name);
@@ -52,6 +53,7 @@
     }
 
     //funkcja statyczna, która wyświetla zawartość tablicy
+
     public static void DisplayArray(int[] array, string name)
     {
       Console.Write("\nZawartość tablicy {0}:\n", name);
@@ -63,6 +65,7 @@
     }
 
     //funkcja statyczna, która ustawia elementy tablicy
+
     public static void SetArray(int[]array, string name)
     {
       Console.WriteLine($"\nPodaj elementy tablicy {name}:");
