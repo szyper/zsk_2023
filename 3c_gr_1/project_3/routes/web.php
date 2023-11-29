@@ -32,3 +32,5 @@ Route::get('show_array', [\App\Http\Controllers\ArrayController::class, 'ShowArr
 Route::view('userform', 'forms.userform');
 Route::get('UserFormController', [\App\Http\Controllers\UserFormController::class, 'showUser']);
 Route::get('db', [\App\Http\Controllers\DbShowController::class, 'ShowTableUsers']);
+
+Route::resource('product', \App\Http\Controllers\ProductController::class);
