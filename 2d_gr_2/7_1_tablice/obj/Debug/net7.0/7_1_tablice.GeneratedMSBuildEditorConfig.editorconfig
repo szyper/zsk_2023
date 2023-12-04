@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _7_1_tablice
 build_property.ProjectDir = C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\7_1_tablice\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

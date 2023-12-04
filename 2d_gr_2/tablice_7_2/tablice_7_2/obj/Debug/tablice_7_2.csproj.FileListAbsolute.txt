@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\bin\Debug\tablice_7_2.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\bin\Debug\tablice_7_2.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\obj\Debug\tablice_7_2.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\obj\Debug\tablice_7_2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\obj\Debug\tablice_7_2.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\tablice_7_2\tablice_7_2\obj\Debug\tablice_7_2.pdb

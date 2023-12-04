@@ -1,0 +1,6 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\bin\Debug\tablice_tablic.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\bin\Debug\tablice_tablic.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\obj\Debug\tablice_tablic.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\obj\Debug\tablice_tablic.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\obj\Debug\tablice_tablic.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\tablice_tablic\tablice_tablic\obj\Debug\tablice_tablic.pdb

@@ -1,0 +1,14 @@
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\bin\Debug\net8.0\1_tablice.exe
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\bin\Debug\net8.0\1_tablice.deps.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\bin\Debug\net8.0\1_tablice.runtimeconfig.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\bin\Debug\net8.0\1_tablice.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\bin\Debug\net8.0\1_tablice.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.AssemblyInfoInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.AssemblyInfo.cs
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.csproj.CoreCompileInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\refint\1_tablice.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\1_tablice.genruntimeconfig.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\zadania\tablice\1_tablice\obj\Debug\net8.0\ref\1_tablice.dll
