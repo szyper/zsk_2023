@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\bin\Debug\net8.0\_7_tablice_3_zadanie.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\bin\Debug\net8.0\_7_tablice_3_zadanie.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\bin\Debug\net8.0\_7_tablice_3_zadanie.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\bin\Debug\net8.0\_7_tablice_3_zadanie.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\bin\Debug\net8.0\_7_tablice_3_zadanie.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\refint\_7_tablice_3_zadanie.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\_7_tablice_3_zadanie.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\_7_tablice_3_zadanie\obj\Debug\net8.0\ref\_7_tablice_3_zadanie.dll
