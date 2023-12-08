@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\bin\Debug\net8.0\_5_random_list.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\bin\Debug\net8.0\_5_random_list.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\bin\Debug\net8.0\_5_random_list.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\bin\Debug\net8.0\_5_random_list.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\bin\Debug\net8.0\_5_random_list.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\refint\_5_random_list.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\_5_random_list.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2c_po\_5_random_list\obj\Debug\net8.0\ref\_5_random_list.dll

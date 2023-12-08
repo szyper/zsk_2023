@@ -1,0 +1,4 @@
+•	Utwórz listê liczb ca³kowitych i wype³nij j¹ losowymi wartoœciami z zakresu od 1 do 100.
+•	Napisz metodê, która przyjmuje jako parametr listê liczb i zwraca listê liczb, które s¹ podzielne przez 3 lub 5.
+•	Wyœwietl na konsoli listê liczb losowych i listê liczb podzielnych przez 3 lub 5.
+
