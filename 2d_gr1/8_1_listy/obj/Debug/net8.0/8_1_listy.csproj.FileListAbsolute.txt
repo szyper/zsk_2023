@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\bin\Debug\net8.0\8_1_listy.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\bin\Debug\net8.0\8_1_listy.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\bin\Debug\net8.0\8_1_listy.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\bin\Debug\net8.0\8_1_listy.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\bin\Debug\net8.0\8_1_listy.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\refint\8_1_listy.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\8_1_listy.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\8_1_listy\obj\Debug\net8.0\ref\8_1_listy.dll

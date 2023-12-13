@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\bin\Debug\net8.0\8_3_zadanie_listy_2_1_menu.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\bin\Debug\net8.0\8_3_zadanie_listy_2_1_menu.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\bin\Debug\net8.0\8_3_zadanie_listy_2_1_menu.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\bin\Debug\net8.0\8_3_zadanie_listy_2_1_menu.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\bin\Debug\net8.0\8_3_zadanie_listy_2_1_menu.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\refint\8_3_zadanie_listy_2_1_menu.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\8_3_zadanie_listy_2_1_menu.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\8_3_zadanie_listy_2_1_menu\obj\Debug\net8.0\ref\8_3_zadanie_listy_2_1_menu.dll
