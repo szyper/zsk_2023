@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\bin\Debug\net8.0\9_1_slowniki.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\bin\Debug\net8.0\9_1_slowniki.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\bin\Debug\net8.0\9_1_slowniki.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\bin\Debug\net8.0\9_1_slowniki.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\bin\Debug\net8.0\9_1_slowniki.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\refint\9_1_slowniki.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\9_1_slowniki.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\9_1_slowniki\obj\Debug\net8.0\ref\9_1_slowniki.dll

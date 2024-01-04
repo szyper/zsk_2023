@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1jTEcXRWbT225RyXPm5wC+ufbPlYh5/YsgJi3avdlzunXC3tRiuEB17meIqodl+SWDsZ93s6bv/G+VxThdMAg==",
+  "success": true,
+  "projectFilePath": "C:\\dane\\ti\\zsk\\2023\\zajęcia\\po\\zajęcia\\10_slowniki\\ex\\2_tablice_listy_słowniki\\2_1_tablice_listy_słowniki\\2_1_tablice_listy_słowniki.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

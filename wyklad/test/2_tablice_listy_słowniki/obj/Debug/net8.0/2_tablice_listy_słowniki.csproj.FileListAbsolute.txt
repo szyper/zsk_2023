@@ -1,0 +1,14 @@
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\bin\Debug\net8.0\2_tablice_listy_słowniki.exe
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\bin\Debug\net8.0\2_tablice_listy_słowniki.deps.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\bin\Debug\net8.0\2_tablice_listy_słowniki.runtimeconfig.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\bin\Debug\net8.0\2_tablice_listy_słowniki.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\bin\Debug\net8.0\2_tablice_listy_słowniki.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.AssemblyInfoInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.AssemblyInfo.cs
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.csproj.CoreCompileInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\refint\2_tablice_listy_słowniki.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\2_tablice_listy_słowniki.genruntimeconfig.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_tablice_listy_słowniki\obj\Debug\net8.0\ref\2_tablice_listy_słowniki.dll

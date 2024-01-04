@@ -1,0 +1,14 @@
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\bin\Debug\net8.0\2_2_tablice_listy_słowniki_linq.exe
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\bin\Debug\net8.0\2_2_tablice_listy_słowniki_linq.deps.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\bin\Debug\net8.0\2_2_tablice_listy_słowniki_linq.runtimeconfig.json
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\bin\Debug\net8.0\2_2_tablice_listy_słowniki_linq.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\bin\Debug\net8.0\2_2_tablice_listy_słowniki_linq.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.AssemblyInfoInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.AssemblyInfo.cs
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.csproj.CoreCompileInputs.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\refint\2_2_tablice_listy_słowniki_linq.dll
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.pdb
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\2_2_tablice_listy_słowniki_linq.genruntimeconfig.cache
+C:\dane\ti\zsk\2023\zajęcia\po\zajęcia\10_slowniki\ex\2_tablice_listy_słowniki\2_2_tablice_listy_słowniki_linq\obj\Debug\net8.0\ref\2_2_tablice_listy_słowniki_linq.dll
