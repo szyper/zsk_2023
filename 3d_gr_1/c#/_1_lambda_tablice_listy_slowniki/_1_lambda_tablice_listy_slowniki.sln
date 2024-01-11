@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1_lambda_tablice_listy_slowniki", "_1_lambda_tablice_listy_slowniki.csproj", "{676AE663-DCCA-4BF5-90EB-804B73BCB754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{676AE663-DCCA-4BF5-90EB-804B73BCB754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676AE663-DCCA-4BF5-90EB-804B73BCB754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676AE663-DCCA-4BF5-90EB-804B73BCB754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676AE663-DCCA-4BF5-90EB-804B73BCB754}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9513D21-8C72-4D0A-97D2-D4ECEFC35746}
+	EndGlobalSection
+EndGlobal
