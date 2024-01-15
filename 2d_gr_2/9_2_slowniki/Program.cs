@@ -17,8 +17,53 @@ namespace _9_2_slowniki
 
             for (int i = 0; i < n; i++)
             {
-                names[i] = ReadString($"Podaj imię osoby {i + 1}:"); 
+                names[i] = ReadString($"Podaj imię osoby {i + 1}:");
                 ages[i] = ReadInt($"Podaj wiek osoby {i + 1}:", 0, 150);
+            }
+
+            List<string> namesStartsWithA = names.Where(name => name.StartsWith("A", StringComparison.OrdinalIgnoreCase)).ToList();
+
+            Console.WriteLine("\nTablica imion i wieków:");
+            PrintArray(names, ages);
+
+            Console.WriteLine("\nLista imion rozpoczynających się na literę A i a:");
+            PrintList(namesStartsWithA);
+
+            Dictionary<string, int> adults = new Dictionary<string, int>();
+            for (int i = 0;i < names.Length; i++)
+            {
+                if (ages[i] >= 18)
+                {
+                    adults.Add(names[i], ages[i]);
+                }
+            }
+
+            Console.WriteLine("\nSłownik osób pełnoletnich:");
+            PrintDictionary(adults);
+            Console.ReadKey();
+        }
+
+        static void PrintDictionary(Dictionary<string, int> adults)
+        {
+            foreach (var item in adults)
+            {
+                Console.WriteLine($"{item.Key} - {item.Value}");
+            }
+        }
+
+        static void PrintList(List<string> names)
+        {
+            foreach (string name in names)
+            {
+                Console.WriteLine(name);
+            }
+        }
+
+        static void PrintArray(string[] names, int[] ages)
+        {
+            for (int i = 0; i < names.Length; i++)
+            {
+                Console.WriteLine($"{names[i]} - {ages[i]}");
             }
         }
 

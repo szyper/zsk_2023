@@ -1,0 +1,7 @@
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\bin\Debug\9_2_slowniki.exe.config
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\bin\Debug\9_2_slowniki.exe
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\bin\Debug\9_2_slowniki.pdb
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\obj\Debug\9_2_slowniki.csproj.AssemblyReference.cache
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\obj\Debug\9_2_slowniki.csproj.CoreCompileInputs.cache
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\obj\Debug\9_2_slowniki.exe
+C:\Users\MS\Desktop\c#\2dg2\9_2_slowniki\obj\Debug\9_2_slowniki.pdb

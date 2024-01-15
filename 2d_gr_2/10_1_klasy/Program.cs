@@ -1,4 +1,9 @@
 ﻿using _10_1_klasy.classes;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace _10_1_klasy
 {
@@ -6,8 +11,8 @@ namespace _10_1_klasy
     {
         static void Main(string[] args)
         {
-            Person person = new Person();
-            Console.WriteLine(person.GetData());
+            Person nowak = new Person();
+            Console.ReadKey();
         }
     }
 }

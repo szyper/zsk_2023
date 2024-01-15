@@ -12,7 +12,8 @@ namespace _10_1_klasy.classes
         public string LastName { get; set; }
         public float Height { get; set; }
         public float Weight { get; set; }
-        public string GetData()
+
+        public string GetDate()
         {
             return "Imię i nazwisko: " + FirstName + " " + LastName + ", wzrost: " + Height + "cm, waga: " + Weight + "kg";
         }
