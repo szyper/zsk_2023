@@ -1,0 +1,7 @@
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\bin\Debug\2_1_dziedziczenie.exe.config
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\bin\Debug\2_1_dziedziczenie.exe
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\bin\Debug\2_1_dziedziczenie.pdb
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\obj\Debug\2_1_dziedziczenie.csproj.AssemblyReference.cache
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\obj\Debug\2_1_dziedziczenie.csproj.CoreCompileInputs.cache
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\obj\Debug\2_1_dziedziczenie.exe
+C:\Users\ms\Desktop\3cg2\2_1_dziedziczenie\obj\Debug\2_1_dziedziczenie.pdb
