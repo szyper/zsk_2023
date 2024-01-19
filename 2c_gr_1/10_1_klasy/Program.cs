@@ -2,24 +2,58 @@
 
 namespace _10_1_klasy
 {
-    internal class Person
-    {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public float Height { get; set; }
-        public float Weight { get; set; }
+  class Address
+  {
+    public string City { get; set; }
+    public string Street { get; set; }
+    public string HouseNumber { get; set; }
+    public string PostalCode { get; set; }
+  }
 
-        public string GetData()
-        {
-            return "Imię i nazwisko: " + FirstName + " " + LastName + ", wzrost: " + Height + "cm, waga: " + Weight + "kg";
-        }
-    }
-    internal class Program
+  internal class Person
+  {
+    public string FirstName { get; set; }
+    public string LastName { get; set; }
+    private float Height;
+    public float Weight;
+    public Address Address { get; set; }
+
+    public string GetData()
     {
-        static void Main(string[] args)
-        {
-            Person person = new Person();
-            Console.WriteLine(person.GetData());
-        }
+      return "Imię i nazwisko: " + FirstName + " " + LastName + ", wzrost: " + Height + "cm, waga: " + Weight + "kg";
     }
+
+    public void SetHeight(float height)
+    {
+      Height = height;
+    }
+
+    public float GetHeight()
+    {
+      return Height;
+    }
+  }
+
+  class Student
+  {
+    public string StudentNumber { get; set; }
+  }
+
+  class Teacher
+  {
+    public List<string> Subjects;
+  }
+  internal class Program
+  {
+    static void Main(string[] args)
+    {
+      Person person = new Person();
+      Console.WriteLine(person.GetData());
+
+      //person.Height = 150;
+      person.SetHeight(200);
+      //Console.WriteLine(person.Height + "cm");
+      Console.WriteLine($"Wzrost: {person.GetHeight()}cm");
+    }
+  }
 }
