@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\bin\Debug\net8.0\10_1_klasy_.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\bin\Debug\net8.0\10_1_klasy_.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\bin\Debug\net8.0\10_1_klasy_.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\bin\Debug\net8.0\10_1_klasy_.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\bin\Debug\net8.0\10_1_klasy_.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\refint\10_1_klasy_.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\10_1_klasy_.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_1_klasy_\obj\Debug\net8.0\ref\10_1_klasy_.dll

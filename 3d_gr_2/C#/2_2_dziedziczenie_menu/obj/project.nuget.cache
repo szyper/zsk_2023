@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TLbaF/hXal5vnetj1YRbWJoWYN7CWRWYKn5S64ko5iPaWO5pQOioaxN8oZW4YCS3sxNHJ7+Pbeu0JXC+ip7ehA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\student\\Desktop\\3d_g2\\2_2_dziedziczenie_menu\\2_2_dziedziczenie_menu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
+    "C:\\Users\\student\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

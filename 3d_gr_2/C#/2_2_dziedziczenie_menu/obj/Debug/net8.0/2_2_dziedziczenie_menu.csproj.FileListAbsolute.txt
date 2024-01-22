@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\bin\Debug\net8.0\2_2_dziedziczenie_menu.exe
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\bin\Debug\net8.0\2_2_dziedziczenie_menu.deps.json
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\bin\Debug\net8.0\2_2_dziedziczenie_menu.runtimeconfig.json
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\bin\Debug\net8.0\2_2_dziedziczenie_menu.dll
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\bin\Debug\net8.0\2_2_dziedziczenie_menu.pdb
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.AssemblyInfo.cs
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.dll
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\refint\2_2_dziedziczenie_menu.dll
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.pdb
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\2_2_dziedziczenie_menu.genruntimeconfig.cache
+C:\Users\student\Desktop\3d_g2\2_2_dziedziczenie_menu\obj\Debug\net8.0\ref\2_2_dziedziczenie_menu.dll

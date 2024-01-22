@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_2_dziedziczenie_menu", "2_2_dziedziczenie_menu.csproj", "{4354AA2E-14FC-49C8-8237-B84588A4E09D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4354AA2E-14FC-49C8-8237-B84588A4E09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4354AA2E-14FC-49C8-8237-B84588A4E09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4354AA2E-14FC-49C8-8237-B84588A4E09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4354AA2E-14FC-49C8-8237-B84588A4E09D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2CAC6E5-1678-441B-8B4D-B8EA830822D9}
+	EndGlobalSection
+EndGlobal

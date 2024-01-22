@@ -1,59 +1,11 @@
 ﻿using System.Collections.Generic;
 using System;
+using _1_klasy.classes;
 
 namespace dziedziczenie_wzor
 {
   internal class Program
   {
-
-    // Zdefiniuj klasę Address, która ma pola city, street, houseNumber i postalCode jako właściwości
-    class Address
-    {
-      public string City { get; set; }
-      public string Street { get; set; }
-      public string HouseNumber { get; set; }
-      public string PostalCode { get; set; }
-
-      public string GetAddress()
-      {
-        return $"{City}, ulica: {Street} {HouseNumber}, kod pocztowy: {PostalCode}";
-      }
-    }
-
-    // Zdefiniuj klasę bazową Person, która ma pola name, surname, dateOfBirth i address oraz konstruktor przyjmujący te wartości
-    class Person
-    {
-      public string Name { get; set; }
-      public string Surname { get; set; }
-      public Address Address { get; set; }
-      //public DateTime DateOfBirth { get; set; }
-      
-
-      // Dodaj metodę, która zwraca pełne imię i nazwisko osoby
-      public string GetFullName()
-      {
-        return $"{Name} {Surname}";
-      }
-
-    }
-
-    // Zdefiniuj klasę pochodną Student, która dziedziczy po klasie Person i ma dodatkowe pole studentNumber oraz konstruktor przyjmujący te wartości
-    class Student
-    {
-      public string StudentNumber { get; private set; }
-
-      public void SetStudentNumber(string x)
-      {
-        StudentNumber = x;
-      }
-    }
-
-    // Zdefiniuj klasę pochodną Teacher, która dziedziczy po klasie Person i ma dodatkowe pole subjects oraz konstruktor przyjmujący te wartości
-    class Teacher
-    {
-      public List<string> Subjects { get; set; }
-    }
-
     static void Main(string[] args)
     {
       // Aby utworzyć nowe obiekty każdej klasy, musisz użyć słowa kluczowego new i podać wartości pól w konstruktorze

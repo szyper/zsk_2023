@@ -12,6 +12,9 @@ namespace _10_1_klasy
         static void Main(string[] args)
         {
             Person nowak = new Person();
+            nowak.FirstName = "Janusz";
+            Console.WriteLine(nowak.FirstName);
+
             Console.ReadKey();
         }
     }

@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\bin\Debug\1_klasy.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\bin\Debug\1_klasy.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\bin\Debug\1_klasy.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\obj\Debug\1_klasy.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\obj\Debug\1_klasy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\obj\Debug\1_klasy.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy\obj\Debug\1_klasy.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\bin\Debug\1_klasy.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\bin\Debug\1_klasy.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\bin\Debug\1_klasy.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\obj\Debug\1_klasy.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\obj\Debug\1_klasy.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\obj\Debug\1_klasy.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\2d_po\1_klasy_1\obj\Debug\1_klasy.pdb

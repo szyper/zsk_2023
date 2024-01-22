@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\2d_g1\10_1_klasy\bin\Debug\net8.0\10_1_klasy.exe
+C:\Users\student\Desktop\2d_g1\10_1_klasy\bin\Debug\net8.0\10_1_klasy.deps.json
+C:\Users\student\Desktop\2d_g1\10_1_klasy\bin\Debug\net8.0\10_1_klasy.runtimeconfig.json
+C:\Users\student\Desktop\2d_g1\10_1_klasy\bin\Debug\net8.0\10_1_klasy.dll
+C:\Users\student\Desktop\2d_g1\10_1_klasy\bin\Debug\net8.0\10_1_klasy.pdb
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.AssemblyInfo.cs
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.dll
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\refint\10_1_klasy.dll
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.pdb
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\10_1_klasy.genruntimeconfig.cache
+C:\Users\student\Desktop\2d_g1\10_1_klasy\obj\Debug\net8.0\ref\10_1_klasy.dll
