@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _10_1_klasy
-build_property.ProjectDir = C:\Users\student\Desktop\2d_g1\10_1_klasy\
+build_property.ProjectDir = C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\10_1_klasy\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false

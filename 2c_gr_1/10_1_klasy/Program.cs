@@ -1,48 +1,7 @@
-﻿//using _10_1_klasy.classes;
+﻿using _10_1_klasy.classes;
 
 namespace _10_1_klasy
 {
-  class Address
-  {
-    public string City { get; set; }
-    public string Street { get; set; }
-    public string HouseNumber { get; set; }
-    public string PostalCode { get; set; }
-  }
-
-  internal class Person
-  {
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
-    private float Height;
-    public float Weight;
-    public Address Address { get; set; }
-
-    public string GetData()
-    {
-      return "Imię i nazwisko: " + FirstName + " " + LastName + ", wzrost: " + Height + "cm, waga: " + Weight + "kg";
-    }
-
-    public void SetHeight(float height)
-    {
-      Height = height;
-    }
-
-    public float GetHeight()
-    {
-      return Height;
-    }
-  }
-
-  class Student
-  {
-    public string StudentNumber { get; set; }
-  }
-
-  class Teacher
-  {
-    public List<string> Subjects;
-  }
   internal class Program
   {
     static void Main(string[] args)
@@ -54,6 +13,32 @@ namespace _10_1_klasy
       person.SetHeight(200);
       //Console.WriteLine(person.Height + "cm");
       Console.WriteLine($"Wzrost: {person.GetHeight()}cm");
+
+      Person p1 = new Person();
+      p1.FirstName = "Janusz";
+
+      p1.Address = new Address();
+      p1.Address.City = "Poznań";
+      p1.Address.Street = "Polna";
+      p1.Address.HouseNumber = "1c/2";
+      p1.Address.PostalCode = "12-345";
+      Console.WriteLine(p1.Address.GetAddress());
+
+      Student s1 = new Student();
+      s1.StudentNumber = "12345";
+
+      Teacher t1 = new Teacher();
+      t1.Subjects = new List<string> { "matematyka", "informatyka", "geografia" };
+
+      foreach (string s in t1.Subjects)
+      {
+        Console.WriteLine(s);
+      }
+
+      Console.WriteLine(string.Join(", ", t1.Subjects));
+
+
+      Console.ReadKey();
     }
   }
 }

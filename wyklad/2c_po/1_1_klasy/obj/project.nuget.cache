@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "VfMJ+LvXKL50NaZzUYUc7KBmq5XfriYzuuhMKoNilIVfYBTfoQhMflKY4pOb0Dno7LKwFpo2jbCI/q2IVhhU7Q==",
+  "dgSpecHash": "3joT1lmZOLe61EpqsZ1NIuVvsvjZqnN0s2WibDkF34VJpCn0dFd0L3NjklfLyi+Qb84hAQpjMODpql0bAG9W0g==",
   "success": true,
   "projectFilePath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\1_1_klasy\\1_1_klasy.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.0\\microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
-    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.0\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
+    "C:\\Users\\User\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

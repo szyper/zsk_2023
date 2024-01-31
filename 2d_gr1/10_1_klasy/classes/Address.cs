@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace _10_1_klasy.classes
 {
-    internal class Address
+  internal class Address
+  {
+    public string City { get; set; }
+    public string Street { get; set; }
+    public string HouseNumber { get; set; }
+    public string PostalCode { get; set; }
+
+    public string GetAddress()
     {
-        public string City { get; set; }
-        public string Street { get; set; }
-        public string HouseNumber { get; set; }
-        public string PostalCode { get; set; }
+      return $"Miasto: {City}, ulica: {Street} {HouseNumber}, kod pocztowy: {PostalCode}";
     }
+  }
 }
