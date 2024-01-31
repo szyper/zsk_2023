@@ -1,4 +1,5 @@
 ﻿using _10_1_klasy.classes;
+using System.Runtime.Serialization;
 
 namespace _10_1_klasy
 {
@@ -54,6 +55,38 @@ namespace _10_1_klasy
       Console.WriteLine("Data: {0}", p1.DateOfBirth.ToLongDateString()); //Data: Saturday, 10 June 2000
 
       p1.Gender = Gender.mężczyzna;
+      Console.WriteLine($"Płeć: {p1.Gender}");
+      p1.Permission = Permission.User;
+      Console.WriteLine($"Uprawnienia użytkownika p1: {p1.Permission}");
+
+      Person p2 = new Person();
+      p2.Permission = Permission.Administrator;
+
+      if (p2.Permission == Permission.User)
+      {
+        Console.WriteLine("Użytkownik p2 jest zwykłym użytkownikiem");
+      }
+      else
+      {
+        Console.WriteLine("Użytkownik p2 nie ma uprawnień User");
+      }
+
+      int p1Value = (int)p1.Permission;
+      Console.WriteLine(p1Value); //3
+
+      int p2Value = (int)p2.Permission;
+      Console.WriteLine(p2Value); //1
+
+      p1.Role = Role.Student;
+      p2.Role = Role.Director;
+
+      Person p3 = new Person();
+      p3.Role = Role.Teacher;
+
+      Console.WriteLine($"p1: {p1.Role}");
+      Console.WriteLine($"p2: {p2.Role}");
+      Console.WriteLine($"p3: {p3.Role}");
+
 
 
     }
