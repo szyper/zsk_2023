@@ -6,13 +6,19 @@ using System.Threading.Tasks;
 
 namespace _10_1_klasy.classes
 {
-     internal class Person
+  enum Gender
+  {
+    kobieta,
+    mężczyzna
+  }
+  internal class Person
   {
     public string FirstName { get; set; }
     public string LastName { get; set; }
     private float Height;
     public float Weight;
     public Address Address { get; set; }
+    public Gender Gender { get; set; }
 
     public string GetData()
     {
@@ -29,4 +35,4 @@ namespace _10_1_klasy.classes
       return Height;
     }
   }
- }
+}

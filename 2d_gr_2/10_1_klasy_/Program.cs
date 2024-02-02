@@ -58,6 +58,35 @@ namespace _10_1_klasy
       Console.WriteLine("Data: {0}", p1.DateOfBirth.ToShortDateString()); //Data: 01/22/2000
       Console.WriteLine("Data: {0}", p1.DateOfBirth.ToLongDateString()); //Data: Saturday, 22 January 2000
 
+
+      p1.Permission = Permission.Administrator;
+      p1.Gender = Gender.kobieta;
+
+      Person p2 = new Person();
+      p2.Permission = Permission.User;
+      p2.Gender = Gender.kobieta;
+
+      if (p2.Permission == Permission.Administrator)
+      {
+        Console.WriteLine("Użytkownik p2 jest administratorem");
+      }
+      else
+      {
+        Console.WriteLine("Użytkownik p2 nie jest administratorem");
+      }
+
+      int p1Value = (int)p1.Permission;
+      Console.WriteLine(p1Value); //1
+
+      int p2Value = (int)p2.Permission;
+      Console.WriteLine(p2Value); //3
+
+      p1.Role = Role.Manager;
+      p2.Role = Role.Director;
+
+      Console.WriteLine($"\np1: \nUprawnienia: {p1.Permission}, rola: {p1.Role}");
+      Console.WriteLine($"\np2: \nUprawnienia: {p2.Permission}, rola: {p2.Role}");
+
       Console.ReadKey();
     }
   }

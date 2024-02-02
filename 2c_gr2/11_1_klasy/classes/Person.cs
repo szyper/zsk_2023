@@ -1,12 +1,13 @@
-﻿using _10_1_klasy_.classes;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10_1_klasy.classes
+namespace _11_1_klasy.classes
 {
+  [Flags]
   enum Role
   {
     Student = 1,
@@ -23,26 +24,25 @@ namespace _10_1_klasy.classes
     Guest = 4
   }
 
-  enum Gender 
+  enum Gender
   {
     kobieta,
     mężczyzna
   }
+
   internal class Person
   {
-    public string FirstName { private get; set; }
+    public string FirstName { get; private set; }
     public string LastName { get; set; }
-    public float Height { get; set; }
-    public float Weight { get; set; }
-    public Address Address { get; set; }
     public DateTime DateOfBirth { get; set; }
+    public Address Address { get; set; }
     public Gender Gender { get; set; }
     public Permission Permission { get; set; }
     public Role Role { get; set; }
 
-    public string GetData()
+    public void SetName(string name)
     {
-      return "Imię i nazwisko: " + FirstName + " " + LastName + ", wzrost: " + Height + "cm, waga: " + Weight + "kg";
+      FirstName = name;
     }
   }
 }

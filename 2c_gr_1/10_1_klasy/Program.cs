@@ -37,6 +37,8 @@ namespace _10_1_klasy
 
       Console.WriteLine(string.Join(", ", t1.Subjects));
 
+      p1.Gender = Gender.mężczyzna;
+
 
       Console.ReadKey();
     }
