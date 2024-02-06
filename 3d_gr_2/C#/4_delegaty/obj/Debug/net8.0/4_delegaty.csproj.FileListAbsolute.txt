@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\bin\Debug\net8.0\4_delegaty.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\bin\Debug\net8.0\4_delegaty.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\bin\Debug\net8.0\4_delegaty.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\bin\Debug\net8.0\4_delegaty.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\bin\Debug\net8.0\4_delegaty.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\refint\4_delegaty.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\4_delegaty.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\3d_gr_2\C#\4_delegaty\obj\Debug\net8.0\ref\4_delegaty.dll

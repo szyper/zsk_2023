@@ -38,6 +38,41 @@ namespace _10_1_klasy
       Console.WriteLine(string.Join(", ", t1.Subjects));
 
       p1.Gender = Gender.mężczyzna;
+      Console.WriteLine($"Płeć p1: {p1.Gender}");
+
+      p1.Permission = Permission.Administrator;
+      if (p1.Permission == Permission.Guest)
+      {
+        Console.WriteLine("p1 jest gościem");
+      }
+      else
+      {
+        Console.WriteLine("p1 nie jest gościem");
+      }
+
+      int p1Value = (int)p1.Permission;
+      Console.WriteLine(p1Value);
+
+      p1.Role = Role.Student;
+      Console.WriteLine($"Rola p1: {p1.Role}");
+
+      p1.DateOfBirth = DateTime.Now;
+      Console.WriteLine(p1.DateOfBirth); //02/02/2024 07:39:49
+
+      p1.DateOfBirth = new DateTime(1990, 2, 22);
+      Console.WriteLine(p1.DateOfBirth); //02 / 22 / 1990 00:00:00
+
+      p1.DateOfBirth = new DateTime(1990, 2, 22, 7, 42, 13);
+      Console.WriteLine(p1.DateOfBirth); //02/22/1990 07:42:13
+
+      Console.WriteLine(p1.DateOfBirth.ToShortTimeString()); //07:42
+      Console.WriteLine(p1.DateOfBirth.ToLongTimeString()); //07:42:13
+      Console.WriteLine(p1.DateOfBirth.ToLongDateString()); //Thursday, 22 February 1990
+      Console.WriteLine(p1.DateOfBirth.ToShortDateString()); //02/22/1990
+
+      p1.DateOfBirth = DateTime.Now;
+      Console.WriteLine(p1.DateOfBirth.ToLongTimeString()); //07:42:13
+
 
 
       Console.ReadKey();

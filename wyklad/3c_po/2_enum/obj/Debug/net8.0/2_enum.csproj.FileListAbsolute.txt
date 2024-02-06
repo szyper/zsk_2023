@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\bin\Debug\net8.0\2_enum.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\bin\Debug\net8.0\2_enum.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\bin\Debug\net8.0\2_enum.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\bin\Debug\net8.0\2_enum.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\bin\Debug\net8.0\2_enum.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\refint\2_enum.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\2_enum.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3c_po\2_enum\obj\Debug\net8.0\ref\2_enum.dll
