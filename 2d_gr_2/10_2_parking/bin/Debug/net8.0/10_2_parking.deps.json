@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "10_2_parking/1.0.0": {
+        "dependencies": {
+          "Microsoft.DotNet.ILCompiler": "8.0.1",
+          "Microsoft.NET.ILLink.Tasks": "8.0.1"
+        },
+        "runtime": {
+          "10_2_parking.dll": {}
+        }
+      },
+      "Microsoft.DotNet.ILCompiler/8.0.1": {},
+      "Microsoft.NET.ILLink.Tasks/8.0.1": {}
+    }
+  },
+  "libraries": {
+    "10_2_parking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.DotNet.ILCompiler/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vEmBtYRsH2gpnUJ9p7ElgB2UZSx5+CF2nHVr2QJ/3kzlfAYBxqXMx3VmQcxOcrsDEuF4/n1VH95qobrj8xnPdw==",
+      "path": "microsoft.dotnet.ilcompiler/8.0.1",
+      "hashPath": "microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+    },
+    "Microsoft.NET.ILLink.Tasks/8.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ADdJXuKNjwZDfBmybMnpvwd5CK3gp92WkWqqeQhW4W+q4MO3Qaa9QyW2DcFLAvCDMcCWxT5hRXqGdv13oon7nA==",
+      "path": "microsoft.net.illink.tasks/8.0.1",
+      "hashPath": "microsoft.net.illink.tasks.8.0.1.nupkg.sha512"
+    }
+  }
+}

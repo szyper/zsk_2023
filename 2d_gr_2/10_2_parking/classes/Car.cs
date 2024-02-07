@@ -9,15 +9,31 @@ namespace _10_2_parking.classes
 {
   internal class Car
   {
-    public string Brand { get; set; }
-    public string Model { get; set; }
-    public ushort Year { get; set; }
-    public Color Color { get; set; }
+    public string Brand { get; private set; }
+    public string Model { get; private set; }
+    public ushort Year { get; private set; }
+    public Color Color { get; private set; }
 
     public void ShowInformation()
     {
       Console.WriteLine($"To jest {Brand} {Model} z {Year}, kolor: {Color}");
     }
 
+    public void SetBrand(string brand)
+    {
+      Brand = brand;
+    }
+    public void SetModel(string model)
+    {
+      Model = model;
+    }
+    public void SetYear(ushort year)
+    {
+      Year = year;
+    }
+    public void SetColor(Color color)
+    {
+      Color = color;
+    }
   }
 }

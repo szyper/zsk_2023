@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\bin\Debug\net8.0\10_2_parking.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\bin\Debug\net8.0\10_2_parking.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\bin\Debug\net8.0\10_2_parking.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\bin\Debug\net8.0\10_2_parking.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\bin\Debug\net8.0\10_2_parking.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\refint\10_2_parking.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\10_2_parking.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr_2\10_2_parking\obj\Debug\net8.0\ref\10_2_parking.dll
