@@ -1,4 +1,4 @@
-﻿namespace _4_2_delegaty
+﻿namespace _4_1_delegaty
 {
   delegate bool Logic(bool a, bool b);
   internal class Program
@@ -30,7 +30,7 @@
         bool result = logic(a, b);
         Console.WriteLine($"Rezultat {logic.Method.Name} {a}, {b} wynosi {result}");
       }
-      catch (Exception e)
+      catch (ArgumentNullException e)
       {
         Console.WriteLine(e.Message);
       }
@@ -41,15 +41,14 @@
       while (true)
       {
         Console.Write("Wprowadź wartość boolowską (true lub false):");
-        string input = Console.ReadLine();
         bool value;
-        if (bool.TryParse(input, out value))
+        if (bool.TryParse(Console.ReadLine(), out value))
         {
           return value;
         }
         else
         {
-          Console.WriteLine("Nieprawidłowe dane. Wprowadź wartość boolowską");
+          Console.WriteLine("\nNieprawidłowe dane");
         }
       }
     }
@@ -58,21 +57,22 @@
     {
       bool x = GetBoolFromUser();
       bool y = GetBoolFromUser();
-      Console.WriteLine();
 
       Logic and = new Logic(And);
       Logic or = new Logic(Or);
       Logic xor = new Logic(Xor);
       Logic not = new Logic(Not);
 
+      Console.WriteLine();
       DisplayResult(and, x, y);
       DisplayResult(or, x, y);
       DisplayResult(xor, x, y);
       DisplayResult(not, x, y);
+
+      Console.WriteLine();
     }
   }
 }
-
 /*
  * Napisz program w języku C#, który używa delegatów do wykonania operacji
 logicznych na dwóch wartościach boolowskich podanych przez użytkownika.
@@ -103,3 +103,4 @@ zmienne x i y jako argumenty.
 ● Przetestuj swój program dla różnych danych wejściowych i sprawdź, czy
 działa poprawnie.
 */
+

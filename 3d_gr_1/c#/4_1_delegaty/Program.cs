@@ -1,4 +1,4 @@
-﻿namespace _4_2_delegaty
+﻿namespace _4_1_delegaty
 {
   delegate bool Logic(bool a, bool b);
   internal class Program
@@ -49,7 +49,7 @@
         }
         else
         {
-          Console.WriteLine("Nieprawidłowe dane. Wprowadź wartość boolowską");
+          Console.WriteLine("\nNieprawidłowe dane.");
         }
       }
     }
@@ -58,17 +58,18 @@
     {
       bool x = GetBoolFromUser();
       bool y = GetBoolFromUser();
-      Console.WriteLine();
 
       Logic and = new Logic(And);
       Logic or = new Logic(Or);
       Logic xor = new Logic(Xor);
       Logic not = new Logic(Not);
 
+      Console.WriteLine();
       DisplayResult(and, x, y);
       DisplayResult(or, x, y);
       DisplayResult(xor, x, y);
       DisplayResult(not, x, y);
+
     }
   }
 }
@@ -103,3 +104,4 @@ zmienne x i y jako argumenty.
 ● Przetestuj swój program dla różnych danych wejściowych i sprawdź, czy
 działa poprawnie.
 */
+
