@@ -1,0 +1,7 @@
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\bin\Debug\4_1_delegaty.exe.config
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\bin\Debug\4_1_delegaty.exe
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\bin\Debug\4_1_delegaty.pdb
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\obj\Debug\4_1_delegaty.csproj.AssemblyReference.cache
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\obj\Debug\4_1_delegaty.csproj.CoreCompileInputs.cache
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\obj\Debug\4_1_delegaty.exe
+C:\Users\MS\Desktop\26_02_2024\3dg2\4_1_delegaty\obj\Debug\4_1_delegaty.pdb

@@ -1,0 +1,7 @@
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\bin\Debug\10_2_parking.exe.config
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\bin\Debug\10_2_parking.exe
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\bin\Debug\10_2_parking.pdb
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\obj\Debug\10_2_parking.csproj.AssemblyReference.cache
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\obj\Debug\10_2_parking.csproj.CoreCompileInputs.cache
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\obj\Debug\10_2_parking.exe
+C:\Users\MS\Desktop\26_02_2024\10_2_parking\obj\Debug\10_2_parking.pdb

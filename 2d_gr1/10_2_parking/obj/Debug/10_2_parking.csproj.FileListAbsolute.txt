@@ -1,0 +1,2 @@
+C:\Users\MS\Desktop\26_02_2024\2dg1\10_2_parking\obj\Debug\10_2_parking.csproj.AssemblyReference.cache
+C:\Users\MS\Desktop\26_02_2024\2dg1\10_2_parking\obj\Debug\10_2_parking.csproj.CoreCompileInputs.cache
