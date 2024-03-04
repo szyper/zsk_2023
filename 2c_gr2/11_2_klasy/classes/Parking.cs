@@ -4,11 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _11_2_parking.classes
+namespace _11_2_klasy.classes
 {
+    enum Status
+    {
+        wolne,
+        zajęte,
+        zarezerwowane,
+        nieczynne
+    }
     internal class Parking
     {
-        public string Name {  get; set; }
+        public string Name { get; set; }
         public Car[] Cars { get; set; }
 
         public void AddCar(Car car)
@@ -63,3 +70,4 @@ namespace _11_2_parking.classes
         }
     }
 }
+

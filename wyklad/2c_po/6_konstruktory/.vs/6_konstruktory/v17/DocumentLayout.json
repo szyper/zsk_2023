@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3204EA-97B1-40AB-85FD-932E2FDD43BA}|6_konstruktory.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3204EA-97B1-40AB-85FD-932E2FDD43BA}|6_konstruktory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3204EA-97B1-40AB-85FD-932E2FDD43BA}|6_konstruktory.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3204EA-97B1-40AB-85FD-932E2FDD43BA}|6_konstruktory.csproj|solutionrelative:classes\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\classes\\Person.cs",
+              "RelativeDocumentMoniker": "classes\\Person.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\classes\\Person.cs",
+              "RelativeToolTip": "classes\\Person.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAADwvy8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:59:03.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\2c_po\\6_konstruktory\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvxwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T11:56:53.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
