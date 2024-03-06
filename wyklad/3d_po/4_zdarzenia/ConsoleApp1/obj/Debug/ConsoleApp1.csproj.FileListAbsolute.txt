@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\wyklad\3d_po\4_zdarzenia\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -16,6 +16,18 @@ namespace _4_konstruktory
 
       Car car1 = new Car("Ford", "Panda", 100);
 
+      Car car2 = new Car();
+
+      Console.WriteLine("Ilość obiektów: " + Car.Counter);
+
+      List<Car> cars = new List<Car>();
+      cars.Add(car);
+      cars.Add(car2);
+      cars.Add(car1);
+
+      Console.WriteLine("Ilość obiektów: " + cars.Count);
+
+
       Console.ReadKey();
     }
   }

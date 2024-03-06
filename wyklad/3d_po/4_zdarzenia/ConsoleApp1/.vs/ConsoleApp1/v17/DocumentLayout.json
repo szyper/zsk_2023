@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\consoleapp1\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|solutionrelative:classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\consoleapp1\\classes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|solutionrelative:classes\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\consoleapp1\\classes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B34E9CE-D6DE-43F7-BDA0-BB4FB391270D}|ConsoleApp1.csproj|solutionrelative:classes\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Cat.cs",
+              "RelativeDocumentMoniker": "classes\\Cat.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Cat.cs",
+              "RelativeToolTip": "classes\\Cat.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvw8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:54:40.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Dog.cs",
+              "RelativeDocumentMoniker": "classes\\Dog.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Dog.cs",
+              "RelativeToolTip": "classes\\Dog.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:52:39.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Animal.cs",
+              "RelativeDocumentMoniker": "classes\\Animal.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\classes\\Animal.cs",
+              "RelativeToolTip": "classes\\Animal.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:45:17.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\wyklad\\3d_po\\4_zdarzenia\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T10:40:25.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -11,10 +11,19 @@ namespace _11_1_konstruktory
   {
     static void Main(string[] args)
     {
-      Person p = new Person();
+      List<Person> persons = new List<Person>();
       Person p0 = new Person();
+      Person p = new Person("Janusz");
+      Person p2 = new Person("Anna", "Nowak");
+      Person p3 = new Person("Anna", "Nowak", 20);
 
-      Console.WriteLine("\n\nLiczba obiektów klasy Person: {0}", Person.Counter);
+      persons.Add(p0);
+      persons.Add(p);
+      persons.Add(p2);
+      persons.Add(p3);
+
+      //Console.WriteLine("\n\nLiczba obiektów klasy Person: {0}", Person.Counter);
+      Console.WriteLine("\n\nLiczba obiektów klasy Person: {0}", persons.Count);
 
       Console.ReadKey();
     }

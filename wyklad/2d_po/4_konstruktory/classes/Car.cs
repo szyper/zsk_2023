@@ -12,17 +12,25 @@ namespace _4_konstruktory.classes
     public string Model { get; set; }
     private float price { get; set; }
 
-    //public Car() { }
+    public static int Counter = 0;
 
-    public Car(string brand, string model)
+    public Car(string Brand, string model)
     {
-      Brand = brand;
+      Console.WriteLine("Konstruktor parametryczny z dwoma parametrami");
+      this.Brand = Brand;
       Model = model;
+      Counter++;
     }
 
     public Car(string brand, string model, float price) : this(brand, model)
     {
       this.price = price;
+      Counter++;
+    }
+
+    public Car()
+    {
+      Counter++;
     }
 
     public void setPrice(float price)
