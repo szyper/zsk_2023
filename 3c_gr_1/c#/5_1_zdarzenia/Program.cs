@@ -8,8 +8,59 @@ namespace _5_1_zdarzenia
 {
   internal class Program
   {
+    //definicja delegata
+    public delegate void MessageHandler(string message);
+
+    //klasa wykonawcy
+    public class Publisher
+    {
+      //deklaracja zdarzenia
+      public event MessageHandler MessageEvent;
+
+      //metoda, która wywołuje zdarzenie
+      public void SendMessage(string message)
+      {
+        //sprawdzenie czy metoda ma subskrybentów
+        if (MessageEvent != null)
+        {
+          //wywołanie zdarzenia
+          MessageEvent(message);
+        }
+      }
+    }
+
+    public class Subscriber
+    {
+      //metoda obsługi zdarzenia
+      public void OnMessageReceived(string message)
+      {
+        Console.WriteLine("Otrzymałem wiadomość: {0}", message);
+        //Console.WriteLine($"Otrzymałem wiadomość: {message}"); 
+      }
+    }
+
     static void Main(string[] args)
     {
+      //utworzenie obiektów wydawcy i subskrybenta
+      Publisher pub = new Publisher();
+      Subscriber sub = new Subscriber();
+
+      //subskrypcja zdarzenia
+      pub.MessageEvent += sub.OnMessageReceived;
+
+      //wywołanie metody, która wywołuje zdarzenie
+      pub.SendMessage("Pierwsza wiadomość");
+      pub.SendMessage("Druga wiadomość");
+      pub.SendMessage("Trzecia wiadomość");
+
+      //anulowanie subskrypcji zdarzenia
+      pub.MessageEvent -= sub.OnMessageReceived;
+      pub.SendMessage("Czwarta wiadomość:");
+
+      pub.MessageEvent += sub.OnMessageReceived;
+      pub.SendMessage("Piąta wiadomość");
+
+      Console.ReadKey();
     }
   }
 }
