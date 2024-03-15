@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\obj\Debug\12_1_konstruktory.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\obj\Debug\12_1_konstruktory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\bin\Debug\12_1_konstruktory.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\bin\Debug\12_1_konstruktory.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\bin\Debug\12_1_konstruktory.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\obj\Debug\12_1_konstruktory.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\12_1_konstruktory\obj\Debug\12_1_konstruktory.pdb

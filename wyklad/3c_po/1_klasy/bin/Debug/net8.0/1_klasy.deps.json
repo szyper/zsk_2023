@@ -9,14 +9,14 @@
       "1_klasy/1.0.0": {
         "dependencies": {
           "Microsoft.DotNet.ILCompiler": "8.0.0",
-          "Microsoft.NET.ILLink.Tasks": "8.0.0"
+          "Microsoft.NET.ILLink.Tasks": "8.0.2"
         },
         "runtime": {
           "1_klasy.dll": {}
         }
       },
       "Microsoft.DotNet.ILCompiler/8.0.0": {},
-      "Microsoft.NET.ILLink.Tasks/8.0.0": {}
+      "Microsoft.NET.ILLink.Tasks/8.0.2": {}
     }
   },
   "libraries": {
@@ -32,12 +32,12 @@
       "path": "microsoft.dotnet.ilcompiler/8.0.0",
       "hashPath": "microsoft.dotnet.ilcompiler.8.0.0.nupkg.sha512"
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.0": {
+    "Microsoft.NET.ILLink.Tasks/8.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-B3etT5XQ2nlWkZGO2m/ytDYrOmSsQG1XNBaM6ZYlX5Ch/tDrMFadr0/mK6gjZwaQc55g+5+WZMw4Cz3m8VEF7g==",
-      "path": "microsoft.net.illink.tasks/8.0.0",
-      "hashPath": "microsoft.net.illink.tasks.8.0.0.nupkg.sha512"
+      "sha512": "sha512-hKTrehpfVzOhAz0mreaTAZgbz0DrMEbWq4n3hAo8Ks6WdxdqQhNPvzOqn9VygKuWf1bmxPdraqzTaXriO/sn0A==",
+      "path": "microsoft.net.illink.tasks/8.0.2",
+      "hashPath": "microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
     }
   }
 }

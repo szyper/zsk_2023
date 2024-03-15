@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\bin\Debug\5_1_1_zdarzenia_priorytet.exe.config
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\bin\Debug\5_1_1_zdarzenia_priorytet.exe
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\bin\Debug\5_1_1_zdarzenia_priorytet.pdb
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\obj\Debug\5_1_1_zdarzenia_priorytet.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\obj\Debug\5_1_1_zdarzenia_priorytet.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\obj\Debug\5_1_1_zdarzenia_priorytet.exe
+C:\Users\student\Desktop\11_03\3dg2\5_1_1_zdarzenia_priorytet\obj\Debug\5_1_1_zdarzenia_priorytet.pdb
