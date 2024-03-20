@@ -24,7 +24,7 @@ namespace _11_1_konstruktory.classes
       //Counter++;
     }
 
-    //konstruktor domyślny jest bezparametrowy. Jeśli klasa nie ma żadnego konstruktora parametrycznego, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich wartości domyślnych. Jeśli zdefiniujemy jakiś konstruktor parametryczny, to nie otrzymamy automatycznie konstruktora domyślnego i możemy/musimy go samodzielnie zadeklarować
+    //konstruktor domyślny jest bezparametrowy. Domyślny konstruktor to taki, który jest publiczny i nie przyjmuje żadnych parametrów. Jeśli klasa nie ma żadnego konstruktora parametrycznego, to konstruktor domyślny jest wywoływany przy tworzeniu obiektu. Inicjuje on wszystkie pola do ich wartości domyślnych. Jeśli zdefiniujemy jakiś konstruktor parametryczny, to nie otrzymamy automatycznie konstruktora domyślnego i możemy/musimy go samodzielnie zadeklarować
     public Person()
     {
       Console.WriteLine("Konstruktor domyślny z klasy Person");

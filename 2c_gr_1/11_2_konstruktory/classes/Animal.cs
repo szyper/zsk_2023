@@ -63,7 +63,7 @@ namespace _11_2_konstruktory.classes
         public void showAge()
         {
             int age = DateTime.Now.Year - BirthDate.Year;
-            Console.WriteLine($" Wiek {Name} wynosi: {age}");
+            Console.WriteLine($"Wiek {Name} wynosi: {age}");
         }
     }
 }
