@@ -89,5 +89,44 @@ namespace _11_2_konstruktory
           break;
       }
     }
+
+    private static void AddNewAnimal(List<Animal> animals)
+    {
+      Console.Clear();
+
+      Console.Write("Podaj nazwę zwierzęcia:");
+      string name = Console.ReadLine();
+      Console.Write("Podaj datę urodzenia zwierzęcia (w formacie RRRR-MM-DD):");
+      DateTime birthDate = DateTime.Parse(Console.ReadLine());
+      Console.Write("Czy zwierzę jest ssakiem? (tak / nie):");
+      bool isMammal = Console.ReadLine().ToLower() == "tak"; //true/false
+      Console.Write("Podaj rodzaj zwierzęcia (Ptak, Ryba, Gad, Płaz, Ssak):");
+      Kind kind = (Kind)Enum.Parse(typeof(Kind), Console.ReadLine());
+
+      Animal animal = new Animal(name, birthDate, isMammal, kind);
+
+      animals.Add(animal);
+
+      Console.WriteLine("\nDodano nowe zwierzę: " + animal.Name);
+      Console.WriteLine("Wciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      showMainMenu(animals);
+
+    }
+
+    private static void ShowAnimalsList(List<Animal> animals)
+    {
+      throw new NotImplementedException();
+    }
+
+    private static void ShowAnimalsDetails(List<Animal> animals)
+    {
+      throw new NotImplementedException();
+    }
+
+    private static void RemoveAnimal(List<Animal> animals)
+    {
+      throw new NotImplementedException();
+    }
   }
 }
