@@ -71,7 +71,7 @@
       }
     }
 
-    //rozwiązanie błędu z Przyklad8
+    //rozwiązanie błędu z Przykladem8
     public class Przyklad8_
     {
       public static string StatycznaWartosc { get; set; }

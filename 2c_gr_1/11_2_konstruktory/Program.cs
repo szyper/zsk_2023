@@ -43,7 +43,7 @@ namespace _11_2_konstruktory
       */
       #endregion
 
-      List <Animal> animals = new List<Animal>();
+      List<Animal> animals = new List<Animal>();
 
       showMainMenu(animals);
 
@@ -116,12 +116,59 @@ namespace _11_2_konstruktory
 
     private static void ShowAnimalsList(List<Animal> animals)
     {
-      throw new NotImplementedException();
+      Console.Clear();
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        Console.WriteLine("Lista zwierząt:");
+        for (int i = 0; i < animals.Count; i++)
+        {
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
+        }
+      }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      showMainMenu(animals);
     }
 
     private static void ShowAnimalsDetails(List<Animal> animals)
     {
-      throw new NotImplementedException();
+      Console.Clear();
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("\nNie ma żadnych zwierząt na liście\n");
+      }
+      else
+      {
+        for (int i = 0; i < animals.Count; i++)
+        {
+          Console.WriteLine((i + 1) + ". " + animals[i].Name);
+        }
+
+        Console.Write("\nPodaj numer zwierzęcia, którego szczegóły chcesz zobaczyć:");
+        int index = int.Parse(Console.ReadLine()) - 1;
+
+        if (index >= 0 && index < animals.Count)
+        {
+          Animal animal = animals[index];
+          Console.WriteLine("\nSzczegóły zwierzęcia:");
+          Console.WriteLine("Nazwa: " + animal.Name);
+          Console.WriteLine("Data urodzenia: " + animal.BirthDate.ToShortDateString());
+          Console.WriteLine("Czy jesteś ssakiem: " + (animal.IsMammal ? "tak" : "nie"));
+          Console.WriteLine("Rodzaj: " + animal.Kind);
+          animal.showAge();
+        }
+        else
+        {
+          Console.WriteLine("\nNiepoprawny numer. Spróbuj ponownie\n");
+        }
+      }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      showMainMenu(animals);
     }
 
     private static void RemoveAnimal(List<Animal> animals)
