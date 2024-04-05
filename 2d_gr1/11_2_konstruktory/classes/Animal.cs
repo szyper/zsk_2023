@@ -56,7 +56,7 @@ namespace _11_2_konstruktory.classes
                 description += "Zwierzę nie jest ssakiem.";
             }
 
-            description += "Rodzaj zwierzęcia: " + Kind;
+            description += " Rodzaj zwierzęcia: " + Kind;
             return description;
         }
 

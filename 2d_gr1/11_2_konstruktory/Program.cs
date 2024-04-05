@@ -168,7 +168,7 @@ namespace _11_2_konstruktory
         {
           Animal animal = animals[index];
           Console.WriteLine("Szczegóły zwierzęcia:");
-          animal.Describe();
+          Console.WriteLine(animal.Describe()); 
           animal.ShowAge();
 
         }
@@ -176,15 +176,66 @@ namespace _11_2_konstruktory
         {
           Console.WriteLine("Niepoprawny numer. Spróbuj ponownie");
         }
-        Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
-        Console.ReadKey();
-        ShowMainMenu(animals);
       }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      ShowMainMenu(animals);
     }
 
     private static void RemoveAnimal(List<Animal> animals)
     {
-      
+      Console.Clear();
+
+      if (animals.Count == 0)
+      {
+        Console.WriteLine("Nie ma żadnych zwierząt na liście");
+      }
+      else
+      {
+        Console.WriteLine("1. Usuń wszystkie zwierzęta");
+        Console.WriteLine("2. Usuń jedno zwierzę");
+
+        Console.Write("\nWybierz jedną z opcji:");
+
+        string choice = Console.ReadLine();
+
+        switch (choice)
+        {
+          case "1":
+            animals.Clear();
+            if (animals.Count == 0)
+            {
+              Console.WriteLine("\nUsunięto wszystkie zwierzęta\n");
+            }
+            break;
+          case "2":
+            Console.WriteLine("Lista zwierząt:");
+            for (int i = 0; i < animals.Count; i++)
+            {
+              Console.WriteLine((i + 1) + ". " + animals[i].Name);
+            }
+
+            Console.Write("\nPodaj numer zwierzęcia, któego szczegóły chcesz zobaczyć:");
+            int index = int.Parse(Console.ReadLine()) - 1;
+
+            if (index >= 0 && index < animals.Count)
+            {
+              animals.RemoveAt(index);
+              Console.WriteLine("\nUsunięto zwierzę\n");
+            }
+            else
+            {
+              Console.WriteLine("Niepoprawny numer. Spróbuj ponownie");
+            }
+            break;
+          default:
+            Console.WriteLine("\nNiepoprawna opcja. Spróbuj ponownie\n");
+            break;
+        }
+      }
+      Console.WriteLine("\nWciśnij dowolny klawisz, aby wrócić do menu głównego\n");
+      Console.ReadKey();
+      ShowMainMenu(animals);
     }
   }
 }
