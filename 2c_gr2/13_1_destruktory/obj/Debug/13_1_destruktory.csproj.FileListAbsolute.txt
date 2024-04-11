@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\bin\Debug\13_1_destruktory.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\bin\Debug\13_1_destruktory.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\bin\Debug\13_1_destruktory.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\obj\Debug\13_1_destruktory.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\obj\Debug\13_1_destruktory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\obj\Debug\13_1_destruktory.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_1_destruktory\obj\Debug\13_1_destruktory.pdb
