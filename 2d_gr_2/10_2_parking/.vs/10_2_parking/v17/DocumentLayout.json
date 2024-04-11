@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|solutionrelative:classes\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE0849-13FF-4666-B828-C837B44E8C3E}|10_2_parking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Parking.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\Parking.cs",
+              "RelativeDocumentMoniker": "classes\\Parking.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\Parking.cs",
+              "RelativeToolTip": "classes\\Parking.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:54:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\Car.cs",
+              "RelativeDocumentMoniker": "classes\\Car.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\classes\\Car.cs",
+              "RelativeToolTip": "classes\\Car.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwA4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:54:06.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2d_gr_2\\10_2_parking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T10:54:06.011Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

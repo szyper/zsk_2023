@@ -1,0 +1,15 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\bin\Debug\net8.0\12_1_destruktory.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\bin\Debug\net8.0\12_1_destruktory.deps.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\bin\Debug\net8.0\12_1_destruktory.runtimeconfig.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\bin\Debug\net8.0\12_1_destruktory.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\bin\Debug\net8.0\12_1_destruktory.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.AssemblyInfoInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.AssemblyInfo.cs
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.sourcelink.json
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\refint\12_1_destruktory.dll
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\12_1_destruktory.genruntimeconfig.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2d_gr1\12_1_destruktory\obj\Debug\net8.0\ref\12_1_destruktory.dll
