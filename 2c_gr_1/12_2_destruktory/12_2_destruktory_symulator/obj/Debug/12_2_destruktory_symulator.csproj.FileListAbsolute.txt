@@ -1,0 +1,7 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\bin\Debug\12_2_destruktory_symulator.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\bin\Debug\12_2_destruktory_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\bin\Debug\12_2_destruktory_symulator.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\obj\Debug\12_2_destruktory_symulator.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\obj\Debug\12_2_destruktory_symulator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\obj\Debug\12_2_destruktory_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr_1\12_2_destruktory\12_2_destruktory_symulator\obj\Debug\12_2_destruktory_symulator.pdb
