@@ -58,6 +58,37 @@ namespace _12_2_destruktory_symulator
               Console.WriteLine("\nNieprawidłowy numer samochodu\n");
             }
             break;
+          case 4:
+            Console.Write("Podaj numer samochodu do symulacji uszkodzenia:");
+            int damagedCarNumber = int.Parse(Console.ReadLine());
+            if (carDictionary.TryGetValue(damagedCarNumber, out Car damagedCar))
+            {
+              damagedCar.SimulateRandomDamage();
+            }
+            else
+            {
+              Console.WriteLine("\nNieprawidłowy numer samochodu\n");
+            }
+            break;
+          case 5:
+            Console.Write("Podaj numer samochodu do zezłomowania:");
+            int scrappedCarNumber = int.Parse(Console.ReadLine());
+            if (carDictionary.TryGetValue(scrappedCarNumber, out Car scrappedCar))
+            {
+              scrappedCar = null;
+              GC.Collect();
+              Console.WriteLine($"Samochód {scrappedCarNumber} został zezłomowany");
+            }
+            else
+            {
+              Console.WriteLine("\nNieprawidłowy numer samochodu\n");
+            }
+            break;
+          case 6:
+            Console.WriteLine("Zamknięcie symulatora");
+            return;
+          default:
+            break;
         }
       }
 

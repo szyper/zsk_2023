@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B813452-1D32-4293-8A2A-3CF45C922CCE}|13_2_destruktor_symulator.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B813452-1D32-4293-8A2A-3CF45C922CCE}|13_2_destruktor_symulator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B813452-1D32-4293-8A2A-3CF45C922CCE}|13_2_destruktor_symulator.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B813452-1D32-4293-8A2A-3CF45C922CCE}|13_2_destruktor_symulator.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\classes\\Car.cs",
+              "RelativeDocumentMoniker": "classes\\Car.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\classes\\Car.cs",
+              "RelativeToolTip": "classes\\Car.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:48:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\13_2_1_destruktor_symulator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwE0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T05:44:26.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

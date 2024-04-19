@@ -1,0 +1,14 @@
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.exe.config
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\bin\Debug\13_2_destruktor_symulator.pdb
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.csproj.AssemblyReference.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.exe
+C:\xampp\htdocs\git\zsk\zsk_2023\2c_gr2\13_2_1_destruktor_symulator\obj\Debug\13_2_destruktor_symulator.pdb
