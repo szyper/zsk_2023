@@ -28,33 +28,19 @@ namespace _12_2_destruktory_symulator
             DisplayCars(carDictionary);
             break;
           case 3:
-            //
+            DisplayCars(carDictionary);
+            DriveCar(carDictionary);
             break;
           case 4:
-            Console.Write("Podaj numer samochodu do symulacji uszkodzenia:");
-            int damagedCarNumber = int.Parse(Console.ReadLine());
-            if (carDictionary.TryGetValue(damagedCarNumber, out Car damagedCar))
+            DisplayCars(carDictionary);
+            if (carDictionary.Count != 0)
             {
-              damagedCar.SimulateRandomDamage();
-            }
-            else
-            {
-              Console.WriteLine("\nNieprawidłowy numer samochodu\n");
+              SimulateDamage(carDictionary);
             }
             break;
           case 5:
-            Console.Write("Podaj numer samochodu do zezłomowania:");
-            int scrappedCarNumber = int.Parse(Console.ReadLine());
-            if (carDictionary.TryGetValue(scrappedCarNumber, out Car scrappedCar))
-            {
-              scrappedCar = null;
-              GC.Collect();
-              Console.WriteLine($"Samochód {scrappedCarNumber} został zezłomowany");
-            }
-            else
-            {
-              Console.WriteLine("\nNieprawidłowy numer samochodu\n");
-            }
+            DisplayCars(carDictionary);
+            ScrapCar(cars, carDictionary);
             break;
           case 6:
             Console.WriteLine("Zamknięcie symulatora");
@@ -67,6 +53,28 @@ namespace _12_2_destruktory_symulator
       }
 
       Console.ReadKey();
+    }
+
+    private static void ScrapCar(List<Car> cars, Dictionary<int, Car> carDictionary)
+    {
+      int carNumber = GetUserInput(carDictionary);
+      Console.WriteLine($"\nSamochód {carDictionary[carNumber].Brand} {carDictionary[carNumber].Model} został usunięty\n");
+      cars.RemoveAt(carNumber);
+      carDictionary.Remove(carNumber);
+    }
+
+    private static void SimulateDamage(Dictionary<int, Car> carDictionary)
+    {
+      int carNumber = GetUserInput(carDictionary);
+      Car carToSimulateDamage = carDictionary[carNumber];
+      carToSimulateDamage.SimulateRandomDamage();
+    }
+
+    private static void DriveCar(Dictionary<int, Car> carDictionary)
+    {
+      int carNumber = GetUserInput(carDictionary);
+      Car carToDrive = carDictionary[carNumber];
+      carToDrive.Drive();
     }
 
     private static void DisplayCars(Dictionary<int, Car> carDictionary)
@@ -100,7 +108,7 @@ namespace _12_2_destruktory_symulator
       Console.WriteLine($"\nDodano samochód {brand} {model}\n");
     }
 
-    private static int GetUserInput()
+    private static int GetUserInput(Dictionary<int, Car> carDictionary = null)
     {
       int input;
       while (true)
@@ -108,7 +116,14 @@ namespace _12_2_destruktory_symulator
         Console.Write("Podaj wartość (int):");
         if (int.TryParse(Console.ReadLine(), out input))
         {
-          return input;
+          if (carDictionary == null || carDictionary.ContainsKey(input))
+          {
+            return input;
+          }
+          else
+          {
+            Console.WriteLine("\nNumer samochodu nie istnieje w słowniku\n");
+          }
         }
         else
         {
