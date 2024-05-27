@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\",
+  "WorkspaceRootPath": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\machinesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\machinesimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\crane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\excavator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\excavator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\excavator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|c:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\bulldozer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\bulldozer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29001FEE-1B12-42D9-AAD6-988C704452D0}|14_1_dziedziczenie.csproj|solutionrelative:classes\\bulldozer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +46,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Crane.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Crane.cs",
-              "RelativeDocumentMoniker": "classes\\Crane.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Crane.cs",
-              "RelativeToolTip": "classes\\Crane.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
+              "DocumentIndex": 0,
+              "Title": "MachineSimulator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\MachineSimulator.cs",
+              "RelativeDocumentMoniker": "classes\\MachineSimulator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\MachineSimulator.cs",
+              "RelativeToolTip": "classes\\MachineSimulator.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:29:01.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Loader.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Loader.cs",
-              "RelativeDocumentMoniker": "classes\\Loader.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Loader.cs",
-              "RelativeToolTip": "classes\\Loader.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAADwvxcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:28:08.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bulldozer.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Bulldozer.cs",
-              "RelativeDocumentMoniker": "classes\\Bulldozer.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Bulldozer.cs",
-              "RelativeToolTip": "classes\\Bulldozer.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBEAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T06:27:10.914Z",
+              "WhenOpened": "2024-05-24T05:50:45.444Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Excavator.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Excavator.cs",
-              "RelativeDocumentMoniker": "classes\\Excavator.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Excavator.cs",
-              "RelativeToolTip": "classes\\Excavator.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAADwvyEAAAAfAAAA",
+              "Title": "Crane.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Crane.cs",
+              "RelativeDocumentMoniker": "classes\\Crane.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Crane.cs",
+              "RelativeToolTip": "classes\\Crane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:45:37.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T06:29:01.732Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Machine.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Machine.cs",
-              "RelativeDocumentMoniker": "classes\\Machine.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\classes\\Machine.cs",
-              "RelativeToolTip": "classes\\Machine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Title": "Loader.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Loader.cs",
+              "RelativeDocumentMoniker": "classes\\Loader.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Loader.cs",
+              "RelativeToolTip": "classes\\Loader.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvxcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:45:11.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T06:28:08.065Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr2\\14_1_dziedziczenie\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvxEAAAAnAAAA",
+              "DocumentIndex": 6,
+              "Title": "Bulldozer.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Bulldozer.cs",
+              "RelativeDocumentMoniker": "classes\\Bulldozer.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Bulldozer.cs",
+              "RelativeToolTip": "classes\\Bulldozer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T05:44:44.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T06:27:10.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excavator.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Excavator.cs",
+              "RelativeDocumentMoniker": "classes\\Excavator.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Excavator.cs",
+              "RelativeToolTip": "classes\\Excavator.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:45:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Machine.cs",
+              "RelativeDocumentMoniker": "classes\\Machine.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\classes\\Machine.cs",
+              "RelativeToolTip": "classes\\Machine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:45:11.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\xampp\\htdocs\\git\\zsk\\zsk_2023\\2c_gr_1\\14_1_dziedziczenie\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:44:44.46Z"
             }
           ]
         }

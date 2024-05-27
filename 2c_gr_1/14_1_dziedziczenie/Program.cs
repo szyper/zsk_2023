@@ -11,6 +11,7 @@ namespace _14_1_dziedziczenie
   {
     static void Main(string[] args)
     {
+      /*
       Machine machine = new Machine("M-100");
 
       Excavator excavator = new Excavator("E-200");
@@ -18,6 +19,18 @@ namespace _14_1_dziedziczenie
       excavator.Stop("awaria silnika");
       excavator.Work();
       //excavator.Dig();
+      */
+
+      MachineSimulator simulator = new MachineSimulator();
+
+      simulator.AddMachine(new Excavator("Koparka E-100"));
+      simulator.AddMachine(new Crane("Dźwig D-100"));
+      simulator.AddMachine(new Bulldozer("Spychacz B-100"));
+      simulator.AddMachine(new Loader("Ładowacz L-100"));
+
+      simulator.StartAll();
+      simulator.StopAll();
+      simulator.DisplayAllMachines();
 
       Console.ReadKey();
     }
