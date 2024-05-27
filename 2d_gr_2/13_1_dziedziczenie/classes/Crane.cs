@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _14_1_dziedziczenie.classes
+namespace _13_1_dziedziczenie.classes
 {
   internal class Crane : Machine
   {
@@ -18,7 +18,6 @@ namespace _14_1_dziedziczenie.classes
       Console.WriteLine($"{Name} rozpoczyna podnoszenie ładunku");
     }
 
-    //symulacja podnoszenia ładunku
     public void Lift()
     {
       Console.WriteLine($"{Name} podnosi ładunek");
